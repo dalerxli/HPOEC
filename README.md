@@ -1,8 +1,6 @@
 # PhotonicsComputing
 
-# OpticalComputingOnIntegratedChip
-
-Optical computing based on integrated chips.
+# Optical Integrated Chip
 
 Group:
 
@@ -16,10 +14,9 @@ Business:
 
 Lightelligence   https://www.lightelligence.ai/
 
+# NeuroScience
 
-# Optical Computing based on NeuroScience
-
-Group
+Group:
 
 清华大学类脑计算研究中心-
 [https://www.cbicr.tsinghua.edu.cn/]-
@@ -43,54 +40,52 @@ Lightwave Communications Research Lab-
 [http://faculty.ee.princeton.edu/prucnal/]-
 [https://scholar.google.com/citations?user=dWJeSzcAAAAJ&hl=en&oi=ao]
 
-Business
+Business:
 
 西井科技[http://www.westwell-lab.com/en/home/]
 
 北京灵汐科技有限公司[http://www.lynxitech.com/index.php/pcproduct]
 
-Journal
+Journal:
 
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 Neural Networks (NN)
 
-Spiking ONN
+Spiking ONN:
 
 M.A. Nahmias, et al. A Leaky Integrate-and-Fire Laser Neuron for Ultrafast Cognitive Computing.IEEE Journal of Selected Topics in Quantum Electronics, 2013, 19(5):1800212.
 
-Event-based Carema
+Event-based Carema:
 
 Event-based Vision Resources-
 [https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
 
 Event-based Vision: A Survey. 2020, TPAMI.
 
-# OpticalComputingOnQuantum
+# Quantum Computing
 
-Optical computing based on quantum
-
-Group
+Group:
 
 MIT-Seth Lloyd-https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU
 
 MIT-Dirk Englund-Quantum Photonics-Laboratory-https://www.rle.mit.edu/qp/people/
 
-Business
+Business:
 
 Xanadu[https://github.com/XanaduAI]
 
-Journal
+Journal:
 
 npj Quantum Information
 
 Quantum
 
-Review
+Review:
 
 awesome-quantum-machine-learning[https://github.com/krishnakumarsekar/awesome-quantum-machine-learning]
 
-Paper
+Review:
 
 J. Biamonte, S. Lloyd, et al. Quantum machine learning. Nature, 2017, 549, 195.
 
