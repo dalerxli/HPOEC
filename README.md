@@ -115,4 +115,4 @@ Papers:
 
 [QONN]G.R. Steinbrecher, J.P. Olson, D. Englund, et al. Quantum optical neural networks. npj Quantum Information, 2019, 5, 60.[https://github.com/steinbrecher/bosonic]
 
-[QONN]Strawberry Fields A Software Platform for Photonic Quantum Computing[https://github.com/XanaduAI/strawberryfields]
+[QONN]Strawberry Fields A Software Platform for Photonic Quantum Computing. Quantum, 3, 129 2019.[https://github.com/XanaduAI/strawberryfields]
