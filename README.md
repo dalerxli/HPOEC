@@ -7,19 +7,19 @@ Group:
 Marin Soljacic-
 MIT-
 Photonics and Modern Electro-Magnetics Group-
-[Homepage:https://www.rle.mit.edu/marin/]
-[Google Scholar:https://scholar.google.co.jp/citations?user=jpqAJIMAAAAJ&hl=en&oi=ao]
+[Homepage: https://www.rle.mit.edu/marin/]
+[Google Scholar: https://scholar.google.co.jp/citations?user=jpqAJIMAAAAJ&hl=en&oi=ao]
 
 David A B Miller-
 Stanford University-
-[Homepage:https://ee.stanford.edu/~dabm/]
-[Google Scholar:https://scholar.google.co.jp/citations?user=mF_qs5sAAAAJ&hl=en&oi=ao]
+[Homepage: https://ee.stanford.edu/~dabm/]
+[Google Scholar: https://scholar.google.co.jp/citations?user=mF_qs5sAAAAJ&hl=en&oi=ao]
 
 Olav Solgaard-
 Stanford University-
 [Solgaard Lab]-
-[Homepage:https://solgaardlab.stanford.edu/]
-[Google Scholar:https://scholar.google.co.jp/citations?user=KW4vFygAAAAJ&hl=en&oi=ao]
+[Homepage: https://solgaardlab.stanford.edu/]
+[Google Scholar: https://scholar.google.co.jp/citations?user=KW4vFygAAAAJ&hl=en&oi=ao]
 
 Business:
 
@@ -34,7 +34,7 @@ Group:
 Luping Shi-
 清华大学类脑计算研究中心-
 [https://www.cbicr.tsinghua.edu.cn/]-
-[Google Scholar:https://scholar.google.co.jp/citations?hl=en&user=vlqhAN4AAAAJ]
+[Google Scholar: https://scholar.google.co.jp/citations?hl=en&user=vlqhAN4AAAAJ]
 
 中国科学院脑科学与智能技术卓越创新中心-
 [http://www.cebsit.cas.cn/]
@@ -51,12 +51,12 @@ Luping Shi-
 Paul R. Prucnal-
 Princeton-
 Lightwave Communications Research Lab-
-[Homepage:http://faculty.ee.princeton.edu/prucnal/]-
-[Google Scholar:https://scholar.google.com/citations?user=dWJeSzcAAAAJ&hl=en&oi=ao]
+[Homepage: http://faculty.ee.princeton.edu/prucnal/]-
+[Google Scholar: https://scholar.google.com/citations?user=dWJeSzcAAAAJ&hl=en&oi=ao]
 
 Shuiying Xiang-
 Xidian University-
-[Google Scholar:https://scholar.google.com.hk/citations?user=enI1xPkAAAAJ&hl=zh-CN&oi=ao]
+[Google Scholar: https://scholar.google.com.hk/citations?user=enI1xPkAAAAJ&hl=zh-CN&oi=ao]
 
 Business:
 
@@ -86,14 +86,14 @@ Group:
 
 Seth Lloyd-
 MIT-
-[Homepage:https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU]
-[Google Scholar:https://scholar.google.co.jp/citations?user=lyMGnwIAAAAJ&hl=en&oi=ao]
+[Homepage: https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU]
+[Google Scholar: https://scholar.google.co.jp/citations?user=lyMGnwIAAAAJ&hl=en&oi=ao]
 
 Dirk Englund-
 MIT-
 Quantum Photonics-Laboratory-
-[Homepage:https://www.rle.mit.edu/qp/people/]-
-[Google Scholar:https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
+[Homepage: https://www.rle.mit.edu/qp/people/]-
+[Google Scholar: https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
 
 Business:
 
