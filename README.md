@@ -66,8 +66,7 @@ Business:
 
 Resource:
 
-Event-based Vision Resources-
-[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
+Event-based Vision Resources[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
 
 Journal:
 
@@ -94,7 +93,7 @@ Dirk Englund-
 MIT-
 Quantum Photonics-Laboratory-
 [Homepage:https://www.rle.mit.edu/qp/people/]-
-[Homepage:https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
+[Google Scholar:https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
 
 Business:
 
