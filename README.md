@@ -1,8 +1,8 @@
 # PhotonicsComputing
 
-# Optical Integrated Chip
+## Optical Integrated Chip
 
-Group:
+### Group
 
 Marin Soljacic-
 MIT-
@@ -21,15 +21,15 @@ Stanford University-
 [Homepage: https://solgaardlab.stanford.edu/]
 [Google Scholar: https://scholar.google.co.jp/citations?user=KW4vFygAAAAJ&hl=en&oi=ao]
 
-Business:
+### Business
 
 Lightelligence[https://www.lightelligence.ai/]
 
 曦智科技[https://www.lightelligence.co/]
 
-# NeuroScience
+## NeuroScience
 
-Group:
+### Group
 
 Luping Shi-
 清华大学类脑计算研究中心-
@@ -58,31 +58,31 @@ Shuiying Xiang-
 Xidian University-
 [Google Scholar: https://scholar.google.com.hk/citations?user=enI1xPkAAAAJ&hl=zh-CN&oi=ao]
 
-Business:
+### Business
 
 西井科技[http://www.westwell-lab.com/en/home/]
 
 北京灵汐科技有限公司[http://www.lynxitech.com/index.php/pcproduct]
 
-Resource:
+### Resource
 
 Event-based Vision Resources[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
 
-Journal:
+### Journal
 
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 Neural Networks (NN)
 
-Papers:
+### Papers
 
 [Spiking ONNs]M.A. Nahmias, et al. A Leaky Integrate-and-Fire Laser Neuron for Ultrafast Cognitive Computing.IEEE Journal of Selected Topics in Quantum Electronics, 2013, 19(5):1800212.
 
 [Event-based Carema]Event-based Vision: A Survey. 2020, TPAMI.
 
-# Quantum Computing
+## Quantum Computing
 
-Group:
+### Group
 
 Seth Lloyd-
 MIT-
@@ -95,21 +95,21 @@ Quantum Photonics-Laboratory-
 [Homepage: https://www.rle.mit.edu/qp/people/]-
 [Google Scholar: https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
 
-Business:
+### Business
 
 Xanadu[https://github.com/XanaduAI]
 
-Resource:
+### Resource
 
 awesome-quantum-machine-learning[https://github.com/krishnakumarsekar/awesome-quantum-machine-learning]
 
-Journal:
+### Journal
 
 npj Quantum Information
 
 Quantum
 
-Papers:
+### Papers
 
 [Review]J. Biamonte, S. Lloyd, et al. Quantum machine learning. Nature, 2017, 549, 195.
 
