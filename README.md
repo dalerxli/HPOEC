@@ -27,6 +27,12 @@ Lightelligence[https://www.lightelligence.ai/]
 
 # NeuroScience
 
+## Business
+
+西井科技[http://www.westwell-lab.com/en/home/]
+
+北京灵汐科技有限公司[http://www.lynxitech.com/index.php/pcproduct]
+
 ## Group
 
 Luping Shi-
@@ -56,12 +62,6 @@ Shuiying Xiang-
 Xidian University-
 [Google Scholar: https://scholar.google.com.hk/citations?user=enI1xPkAAAAJ&hl=zh-CN&oi=ao]
 
-## Business
-
-西井科技[http://www.westwell-lab.com/en/home/]
-
-北京灵汐科技有限公司[http://www.lynxitech.com/index.php/pcproduct]
-
 ## Resource
 
 Event-based Vision Resources[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
@@ -80,6 +80,10 @@ Neural Networks (NN)
 
 # Quantum Computing
 
+## Business
+
+Xanadu[https://github.com/XanaduAI]
+
 ## Group
 
 Seth Lloyd-
@@ -92,10 +96,6 @@ MIT-
 Quantum Photonics-Laboratory-
 [Homepage: https://www.rle.mit.edu/qp/people/]-
 [Google Scholar: https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
-
-## Business
-
-Xanadu[https://github.com/XanaduAI]
 
 ## Resource
 
