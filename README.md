@@ -76,16 +76,21 @@ Neural Networks (NN)
 
 ## Papers
 
+[SNN]Unsupervised learning of digit recognition using spike-timing-dependent plasticity. Frontiers in computational neuroscience, 2015.
+[Unsupervised learning of digit recognition using spike-timing-dependent plasticity]
+[https://github.com/djsaunde/spiketorch]
+[https://github.com/djsaunde/lm-snn]
+
+[SNN]Conversion of Continuous-Valued Deep Networks to Efficient Event-Driven Networks for Image Classification. Front. Neurosci., 2017,
+[https://github.com/NeuromorphicProcessorProject/snn_toolbox]
+
 [SNN]Enabling Spike-based Backpropagation for Training Deep Neural Network Architectures. Frontiers in Neuroscience, 2020.
 [https://github.com/chan8972/Enabling_Spikebased_Backpropagation]
 
 [SNN]Deep spiking neural networks for large vocabulary automatic speech recognition. Frontiers in Neuroscience, 2020.
 [https://github.com/deepspike/snn-for-asr]
 
-[SNN]Unsupervised learning of digit recognition using spike-timing-dependent plasticity. Frontiers in computational neuroscience, 2015.
-[Unsupervised learning of digit recognition using spike-timing-dependent plasticity]
-[https://github.com/djsaunde/spiketorch]
-[https://github.com/djsaunde/lm-snn]
+[SNN]Pure python implementation of SNN. [https://github.com/Shikhargupta/Spiking-Neural-Network]
 
 [Hybrid]A Hybrid Compact Neural Architecture for Visual Place Recognition. ICRA, 2020.
 [https://github.com/mchancan/flynet]
