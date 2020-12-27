@@ -76,15 +76,39 @@ Neural Networks (NN)
 
 ## Papers
 
-[Spiking ONNs]M.A. Nahmias, et al. A Leaky Integrate-and-Fire Laser Neuron for Ultrafast Cognitive Computing.IEEE Journal of Selected Topics in Quantum Electronics, 2013, 19(5):1800212.
+[SNN]Enabling Spike-based Backpropagation for Training Deep Neural Network Architectures. Frontiers in Neuroscience, 2020.
+[https://github.com/chan8972/Enabling_Spikebased_Backpropagation]
+
+[SNN]Deep spiking neural networks for large vocabulary automatic speech recognition. Frontiers in Neuroscience, 2020.
+[https://github.com/deepspike/snn-for-asr]
+
+[SNN]Unsupervised learning of digit recognition using spike-timing-dependent plasticity. Frontiers in computational neuroscience, 2015.
+[Unsupervised learning of digit recognition using spike-timing-dependent plasticity]
+[https://github.com/djsaunde/spiketorch]
+[https://github.com/djsaunde/lm-snn]
+
+[Hybrid]A Hybrid Compact Neural Architecture for Visual Place Recognition. ICRA, 2020.
+[https://github.com/mchancan/flynet]
+
+[CANN][Tools]https://github.com/fccaa/cann_base
+
+[SONN]M.A. Nahmias, et al. A Leaky Integrate-and-Fire Laser Neuron for Ultrafast Cognitive Computing.IEEE Journal of Selected Topics in Quantum Electronics, 2013, 19(5):1800212.
 
 [Event-based Carema]Event-based Vision: A Survey. TPAMI, 2020.
 
 [Event-based Carema]Video to Events: Recycling Video Datasets for Event Cameras. CVPR, 2020.
 [https://github.com/uzh-rpg/rpg_vid2e]
 
+[Event-based Carema][Hybrid]Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks, ECCV 2020.
+[https://github.com/chan8972/Spike-FlowNet]
+
 [Reservoir Computing]EchoTorch: Reservoir Computing with pyTorch. 2018.
 [https://github.com/nschaetti/EchoTorch]
+
+[Reservoir Computing]Optical Reservoir Computing Using Multiple Light Scattering for Chaotic Systems Predictio. JSTQE, 2019.
+[https://github.com/Tp-Hekiclr/Optical-Reservoir-Computing-for-Chaotic-Time-Prediction]
+
+[Neuroevolution]https://github.com/uber-research/deep-neuroevolution
 
 # Quantum Computing
 
@@ -121,6 +145,11 @@ Quantum
 
 [Review]J. Biamonte, S. Lloyd, et al. Quantum machine learning. Nature, 2017, 549, 195.
 
-[QONN]G.R. Steinbrecher, J.P. Olson, D. Englund, et al. Quantum optical neural networks. npj Quantum Information, 2019, 5, 60.[https://github.com/steinbrecher/bosonic]
+[QNN]K. Beer, D. Bondarenko, T. Farrelly, T. J. Osborne, R. Salzmann, and R. Wolf. Training deep quantum neural networks. Nat Commun 11, 808 (2020).
+[https://github.com/qigitphannover/DeepQuantumNeuralNetworks]
+
+[QONN]G.R. Steinbrecher, J.P. Olson, D. Englund, et al. Quantum optical neural networks. npj Quantum Information, 2019, 5, 60.
+[https://github.com/steinbrecher/bosonic]
+[https://github.com/thisac/qecco]
 
 [QONN]Strawberry Fields A Software Platform for Photonic Quantum Computing. Quantum, 3, 129 2019.[https://github.com/XanaduAI/strawberryfields]
