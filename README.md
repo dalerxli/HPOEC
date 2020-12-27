@@ -64,6 +64,8 @@ Xidian University-
 
 ## Resource
 
+Spiking Neural Network[https://github.com/XDUSPONGE/SNN_benchmark]
+
 Event-based Vision Resources[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
 
 ## Journal
@@ -76,7 +78,13 @@ Neural Networks (NN)
 
 [Spiking ONNs]M.A. Nahmias, et al. A Leaky Integrate-and-Fire Laser Neuron for Ultrafast Cognitive Computing.IEEE Journal of Selected Topics in Quantum Electronics, 2013, 19(5):1800212.
 
-[Event-based Carema]Event-based Vision: A Survey. 2020, TPAMI.
+[Event-based Carema]Event-based Vision: A Survey. TPAMI, 2020.
+
+[Event-based Carema]Video to Events: Recycling Video Datasets for Event Cameras. CVPR, 2020.
+[https://github.com/uzh-rpg/rpg_vid2e]
+
+[Reservoir Computing]EchoTorch: Reservoir Computing with pyTorch. 2018.
+[https://github.com/nschaetti/EchoTorch]
 
 # Quantum Computing
 
@@ -100,6 +108,8 @@ Quantum Photonics-Laboratory-
 ## Resource
 
 awesome-quantum-machine-learning[https://github.com/krishnakumarsekar/awesome-quantum-machine-learning]
+
+quantum-inspired-algorithms[https://github.com/XanaduAI/quantum-inspired-algorithms]
 
 ## Journal
 
