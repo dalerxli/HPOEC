@@ -1,5 +1,11 @@
 # Optical Integrated Chip
 
+## Business
+
+Lightelligence[https://www.lightelligence.ai/]
+
+曦智科技[https://www.lightelligence.co/]
+
 ## Group
 
 Marin Soljacic-
@@ -19,11 +25,25 @@ Stanford University-
 [Homepage: https://solgaardlab.stanford.edu/]
 [Google Scholar: https://scholar.google.co.jp/citations?user=KW4vFygAAAAJ&hl=en&oi=ao]
 
-## Business
+## Papers
 
-Lightelligence[https://www.lightelligence.ai/]
+[ONN]Y. Shen, N. C. Harris, S. Skirlo, M. Prabhu, T. Baehr-Jones, M. Hochberg, X. Sun, S. Zhao, H. Larochelle, D.
+Englund, and M. Soljacic. Deep learning with coherent nanophotonic circuits. Nat. Photonics, 2017, 11(7), 441–446.
 
-曦智科技[https://www.lightelligence.co/]
+[ONN][Training]T. W. Hughes, M. Minkov, Y. Shi, and S. Fan. Training of photonic neural networks through in situ backpropagation
+and gradient measurement. Optica, 2018, 5(7), 864–871.
+[https://github.com/fancompute/neuroptica]
+
+[ONN][Activation Functions]I. A. Williamson, T. W. Hughes, M. Minkov, B. Bartlett, S. Pai, and S. Fan. Reprogrammable Electro-Optic
+Nonlinear Activation Functions for Optical Neural Networks. 2020, 26(1):7700412.
+
+[ONN]S. Pai, B. Bartlett, O. Solgaard, D.A.B. Miller. Matrix Optimization on Universal Unitary Photonic Devices, 
+Physical Review Applied, 2019, 11(6):064044.
+[https://github.com/solgaardlab/neurophox]
+
+[ONN]S. Pai, I.A.D. Williamson, T.W. Hughes, O. Solgaard, S. Fan, D.A.B. Miller. Parallel Programming of an Arbitrary Feedforward Photonic Network, 
+IEEE Journal of Selected Topics in Quantum Electronics, 2020, 26(1):1-12.
+[https://github.com/solgaardlab/neurophox]
 
 # NeuroScience
 
@@ -77,7 +97,6 @@ Neural Networks (NN)
 ## Papers
 
 [SNN]Unsupervised learning of digit recognition using spike-timing-dependent plasticity. Frontiers in computational neuroscience, 2015.
-[Unsupervised learning of digit recognition using spike-timing-dependent plasticity]
 [https://github.com/djsaunde/spiketorch]
 [https://github.com/djsaunde/lm-snn]
 
@@ -101,11 +120,11 @@ Neural Networks (NN)
 
 [Event-based Carema]Event-based Vision: A Survey. TPAMI, 2020.
 
-[Event-based Carema]Video to Events: Recycling Video Datasets for Event Cameras. CVPR, 2020.
-[https://github.com/uzh-rpg/rpg_vid2e]
-
 [Event-based Carema][Hybrid]Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks, ECCV 2020.
 [https://github.com/chan8972/Spike-FlowNet]
+
+[Event-based Carema]Video to Events: Recycling Video Datasets for Event Cameras. CVPR, 2020.
+[https://github.com/uzh-rpg/rpg_vid2e]
 
 [Reservoir Computing]EchoTorch: Reservoir Computing with pyTorch. 2018.
 [https://github.com/nschaetti/EchoTorch]
