@@ -36,6 +36,7 @@ and gradient measurement. Optica, 2018, 5(7), 864–871.
 
 [ONN][Activation Functions]I. A. Williamson, T. W. Hughes, M. Minkov, B. Bartlett, S. Pai, and S. Fan. Reprogrammable Electro-Optic
 Nonlinear Activation Functions for Optical Neural Networks. 2020, 26(1):7700412.
+[https://github.com/fancompute/neuroptica]
 
 [ONN]S. Pai, B. Bartlett, O. Solgaard, D.A.B. Miller. Matrix Optimization on Universal Unitary Photonic Devices, 
 Physical Review Applied, 2019, 11(6):064044.
