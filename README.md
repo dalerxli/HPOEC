@@ -1,5 +1,7 @@
-# Optical Integrated Chip
+#Photonics Computing
 
-# NeuroScience
+## Optical Integrated Chip
 
-# Quantum Computing
+## NeuroScience
+
+## Quantum Computing
