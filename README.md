@@ -1,7 +1,7 @@
-# Photonics Computing
+# Photonics Devices
 
-## Optical Integrated Chip
+# Optoeletronics
 
-## NeuroScience
+# NeuroComputing
 
-## Quantum Computing
+# Quantum Computing
