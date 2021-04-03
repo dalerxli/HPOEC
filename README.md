@@ -1,7 +1,11 @@
-# Photonics Devices
+# High Performance Computing #
 
-# Optoeletronics
+## Photonics Devices ##
 
-# NeuroComputing
+## Optoeletronics ##
 
-# Quantum Computing
+## NeuroComputing ##
+
+## Quantum Computing ##
+
+## Parallel Computing ##
