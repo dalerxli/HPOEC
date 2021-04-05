@@ -1,8 +1,10 @@
 # High Performance Computing #
 
+## Simiconductor ##
+
 ## Photonics Devices ##
 
-## Optoeletronics ##
+## Optoeletronics Computing##
 
 ## NeuroComputing ##
 
