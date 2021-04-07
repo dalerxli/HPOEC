@@ -4,7 +4,11 @@
 
 ## Photonics Devices ##
 
-## Optoeletronics Computing##
+## High-Performance Computer Architecture ##
+
+## Application Specific OptoelEctronic Computing ##
+
+## Heterogeneous system on chip ##
 
 ## NeuroComputing ##
 
