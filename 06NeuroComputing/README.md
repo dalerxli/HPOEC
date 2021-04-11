@@ -86,3 +86,11 @@ Neural Networks (NN)
 [https://github.com/Tp-Hekiclr/Optical-Reservoir-Computing-for-Chaotic-Time-Prediction]
 
 [Neuroevolution]https://github.com/uber-research/deep-neuroevolution
+
+## BCI
+
+### Journal
+
+IEEE Transactions on Human-Machine Systems (THMS)
+
+IEEE Transactions on Affective Computing (TAC)
