@@ -1,17 +1,17 @@
-# High Performance Computing #
+# High Performance Computing
 
-## Simiconductor ##
+## Simiconductor
 
-## Photonics Devices ##
+## Photonic Device
 
-## High-Performance Computer Architecture ##
+## High-Performance Computer Architecture
 
-## Application Specific OptoelEctronic Computing ##
+## Application Specific OptoelEctronic Computing
 
-## Heterogeneous system on chip ##
+## Heterogeneous system on Chip
 
-## NeuroComputing ##
+## NeuroComputing
 
-## Quantum Computing ##
+## Quantum Computing
 
-## Parallel Computing ##
+## Parallel Computing
