@@ -8,7 +8,7 @@
 
 ## Application Specific OptoelEctronic Computing
 
-## Heterogeneous system on Chip
+## Heterogeneous System on Chip
 
 ## NeuroComputing
 
