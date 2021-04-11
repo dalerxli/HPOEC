@@ -1,2 +1,2 @@
-# Heterogeneous system on chip (HSOC) #
+# Heterogeneous System on Chip (HSOC) #
 
