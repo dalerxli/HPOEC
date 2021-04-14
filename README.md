@@ -1,4 +1,4 @@
-# High Performance Computing
+# High Performance OptoElectronic Computing
 
 ## Simiconductor
 
@@ -6,7 +6,7 @@
 
 ## High-Performance Computer Architecture
 
-## Application Specific OptoelEctronic Computing
+## Application Specific OptoElectronic Computing
 
 ## Heterogeneous System on Chip
 
