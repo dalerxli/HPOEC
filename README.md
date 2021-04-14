@@ -2,7 +2,7 @@
 
 ## Simiconductor
 
-## Photonic Device
+## Photonic Devices
 
 ## High-Performance Computer Architecture
 
