@@ -4,24 +4,24 @@
 
 Xanadu[https://github.com/XanaduAI]
 
-## Group
-
-Seth Lloyd-
-MIT-
-[Homepage: https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU]
-[Google Scholar: https://scholar.google.co.jp/citations?user=lyMGnwIAAAAJ&hl=en&oi=ao]
-
-Dirk Englund-
-MIT-
-Quantum Photonics-Laboratory-
-[Homepage: https://www.rle.mit.edu/qp/people/]-
-[Google Scholar: https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
+PennyLaneAI[https://github.com/PennyLaneAI]
 
 ## Resource
 
 awesome-quantum-machine-learning[https://github.com/krishnakumarsekar/awesome-quantum-machine-learning]
 
 quantum-inspired-algorithms[https://github.com/XanaduAI/quantum-inspired-algorithms]
+
+## Group
+
+Seth Lloyd-MIT-
+[Homepage: https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU]
+[Google Scholar: https://scholar.google.co.jp/citations?user=lyMGnwIAAAAJ&hl=en&oi=ao]
+
+Dirk Englund-MIT-
+Quantum Photonics-Laboratory-
+[Homepage: https://www.rle.mit.edu/qp/people/]-
+[Google Scholar: https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao]
 
 ## Journal
 
