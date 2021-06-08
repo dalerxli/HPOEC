@@ -1,17 +1,17 @@
-# High Performance OptoElectronic Computing
+# High Performance OptoElectronic Computing (HPOEC)
 
-## Simiconductor
+## Simiconductor & Chip
 
 ## Photonic Devices
 
-## High-Performance Computer Architecture
-
 ## Application Specific OptoElectronic Computing
 
-## Heterogeneous System on Chip
-
-## NeuroComputing
+## High-Performance Computer Architecture & Heterogeneous Computing
 
 ## Quantum Computing
 
+## NeuroComputing
+
 ## Parallel Computing
+
+## Edge Computing
