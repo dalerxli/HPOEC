@@ -4,18 +4,18 @@
 
 ## Simiconductor & Chip
 
-## Photonic Devices
+## Advanced Photonic Devices
 
 ## Application Specific OptoElectronic Computing (ASOEC)
 
-## High-Performance Computer Architecture (HPCA) & Heterogeneous Computing
+## High-Performance Computer Architecture (HPCA) & Heterogeneous Computing (HC)
 
 ******
 
-## Quantum Computing
+## Quantum Computing (QC)
 
-## NeuroComputing
+## Neural Computing (NC)
 
-## Parallel Computing
+## Parallel Computing (PC)
 
-## Edge Computing
+## Edge Computing (EC)
