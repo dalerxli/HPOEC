@@ -4,7 +4,7 @@
 
 ## Simiconductor & Chip
 
-## Advanced Photonic Devices
+## Advanced Photonic Devices (APD)
 
 ## Application Specific OptoElectronic Computing (ASOEC)
 
