@@ -2,7 +2,7 @@
 
 ******
 
-## Simiconductor & Chip
+## Simiconductor & Chip (SC)
 
 ## Advanced Photonic Devices (APD)
 
