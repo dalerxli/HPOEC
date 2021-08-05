@@ -1,4 +1,4 @@
-# High Performance OptoElectronic Computing (HPOEC)
+# High Performance OptoElectronic Heterogeneous Computing (HPOHC)
 
 ******
 
@@ -8,7 +8,7 @@
 
 ## Application Specific OptoElectronic Computing (ASOEC)
 
-## High-Performance Computer Architecture (HPCA) & Heterogeneous Computing (HC)
+## High-Performance Computer Architecture (HPCA)
 
 ******
 
