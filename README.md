@@ -2,7 +2,7 @@
 
 ******
 
-## Simiconductor & Chip (SC)
+## Semiconductor Manufacturing (SM)
 
 ## Advanced Photonic Devices (APD)
 
