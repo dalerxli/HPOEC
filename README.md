@@ -2,7 +2,7 @@
 
 ******
 
-## Semiconductor Manufacturing (SM)
+## Semiconductor Design and Manufacturing (SDM)
 
 ## Advanced Photonic Devices (APD)
 

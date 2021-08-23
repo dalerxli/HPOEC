@@ -1,14 +1,12 @@
-# High Performance OptoElectronic Computing (HPOEC)
+# Semiconductor Design and Manufacturing (SDM)
 
-## Journal
+## Design
 
 IEEE Transactions on Computer-Aided Design of Integrated Circuits And System （TCAD）
 
-## Conference
+## Manufacturing
 
 Design Automation Conference (DAC)
-
-International Conference on Computer Design (ICCD)
 
 
 
