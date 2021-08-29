@@ -2,11 +2,11 @@
 
 ## Business
 
-**Lightelligence**<br> 
-[https://www.lightelligence.ai/]
+**Lightelligence**<br>
+[[Homepage](https://www.lightelligence.ai/)]
 
-**曦智科技**<br> 
-[https://www.lightelligence.co/]
+**曦智科技**<br>
+[[Homepage](https://www.lightelligence.co/)]
 
 ## Group
 

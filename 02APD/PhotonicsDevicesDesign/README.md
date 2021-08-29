@@ -2,59 +2,83 @@
 
 ## Business
 
-Flexcompute
-[https://www.flexcompute.com/welcome.html]
+**Flexcompute**<br>
+[[Homepage](https://www.flexcompute.com/welcome.html)]
 
 ## Group
 
-Shanhui Fan-
-Stanford University-
-Fan Group-
-[Homepage: https://web.stanford.edu/group/fan/]-
-[Google Scholar: https://scholar.google.com/citations?user=BECu7wYAAAAJ&hl=en&oi=ao]
-[Github: https://github.com/fancompute]
+**Shanhui Fan**<br>
+*Stanford University-Fan Group*<br>
+[[Homepage](https://web.stanford.edu/group/fan/)]
+[[Google Scholar](https://scholar.google.com/citations?user=BECu7wYAAAAJ&hl=en&oi=ao)]
+[[Github](https://github.com/fancompute)]
 
-Jelena Vuckovic-
-Stanford University-
-NanoScale and Quamtum Photonics Lab-
-[Homepage: https://nqp.stanford.edu/current-members]
-[Google Scholor: https://scholar.google.com/citations?user=-afJI14AAAAJ&hl=en&oi=ao]
+**Jelena Vuckovic**<br>
+*Stanford University-NanoScale and Quamtum Photonics Lab*<br>
+[[Homepage](https://nqp.stanford.edu/current-members)]
+[[Google Scholar](https://scholar.google.com/citations?user=-afJI14AAAAJ&hl=en&oi=ao)]
 
-Alejandro W. Rodriguez-
-Princeton University-
-Nanophotonics Design and Computation Group-
-[Homepage: http://faculty.ee.princeton.edu/arodriguez/]-
-[Google Scholor: https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en]
+**Alejandro W. Rodriguez**<br>
+*Princeton University-Nanophotonics Design and Computation Group*<br>
+[[Homepage](http://faculty.ee.princeton.edu/arodriguez/)]
+[[Google Scholar](https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en)]
 
-## Papers
+## Review
 
-### Review
+**Inverse design in nanophotonics.**<br>
+*S. Molesky, A.W. Rodriguez, and et al.*<br>
+Nature Photonics, 2018, 12:659–670.
 
-[Review]S. Molesky, A.W. Rodriguez, and et al. Inverse design in nanophotonics. Nature Photonics, 2018, 12:659–670.
+## Search-based Methods
 
-### Gradient-based Method
+**An integrated-nanophotonics polarization beamsplitter with 2.4 × 2.4 μm2 footprint.**<br>
+*B. Shen, and et al.*<br>
+Nature Photonics, 2015, 9:378–382.
 
-[AVM]Adjoint shape optimization applied to electromagnetic design. OE, 2013.
-[https://github.com/chriskeraly/lumopt]
+**Ultra-compact broadband polarization beam splitter with strong expansibility.**<br>
+Photonics Research, 2018.
 
-[OFM]J. Vučković, and et al. Nanophotonic Inverse Design with SPINS: Software Architecture and Practical Considerations. APR, 2020.
-[https://github.com/stanfordnqp/spins-b]
+## Gradient-based Methods
 
-[OFM]K.Y. Yang, J. Vučković, and et al. Inverse-designed non-reciprocal pulse router for chip-based LiDAR. Nature Photonics, 2020, 14:369–374.
+**Adjoint shape optimization applied to electromagnetic design.**<br>
+Optics, 2013.
+[[Github](https://github.com/chriskeraly/lumopt)]
 
-[AVM]T.W. Hughes, S. Fan, and et al. Adjoint method and inverse design for nonlinear nanophotonic devices. ACS Photonics, 2018, 5(12):4781–4787.
-[https://github.com/fancompute/angler]
+**Nanophotonic Inverse Design with SPINS: Software Architecture and Practical Considerations.**<br>
+*J. Vučković, and et al.*<br>
+APR, 2020.
+[[Github](https://github.com/stanfordnqp/spins-b)]
 
-### Evolutionary based Method
+**Inverse-designed non-reciprocal pulse router for chip-based LiDAR.**<br>
+*K.Y. Yang, J. Vučković, and et al.*<br>
+Nature Photonics, 2020, 14:369–374.
 
-[PSO]Hyper-parameter selection in deep neural networks using parallel particle swarm optimization. GECC, 2017.
-[https://github.com/pribalta/fastPSO]
+**Adjoint method and inverse design for nonlinear nanophotonic devices.**<br>
+*T.W. Hughes, S. Fan, and et al.*<br>
+ACS Photonics, 2018, 5(12):4781–4787.
+[[Github](https://github.com/fancompute/angler)]
 
-[DBS]B. Shen, and et al. An integrated-nanophotonics polarization beamsplitter with 2.4 × 2.4 μm2 footprint. Nature Photonics, 2018, 9:378–382.
+## Evolutionary-based Methods
 
-### Model based Method
+**Optimization for Gold Nanostructure-Based Surface Plasmon Biosensors Using a Microgenetic Algorithm.**<br>
+ACS Photonics, 2018.
 
-[ANN]J. Peurifoy, and et al. Nanophotonic particle simulation and inverse design using artificial neural networks. Science Advance, 2018, 4(6):eaar4206.
+**Complex Inverse Design of Meta-optics by Segmented Hierarchical Evolutionary Algorithm**<br>
+ACS Nano, 2020.
 
-[DL]S. An, and et al. A Deep Learning Approach for Objective-Driven All-Dielectric Metasurface Design. ACS Photonics, 2020.
-[https://github.com/SensongAn/Meta-atoms-data-sharing]
+## Model-based Methods
+
+**Nanophotonic particle simulation and inverse design using artificial neural networks.**<br>
+*J. Peurifoy, and et al.*<br>
+Science Advance, 2018, 4(6):eaar4206.
+
+**A Deep Learning Approach for Objective-Driven All-Dielectric Metasurface Design.**<br>
+*S. An, and et al.*<br>
+ACS Photonics, 2020.
+[[Github](https://github.com/SensongAn/Meta-atoms-data-sharing)]
+
+
+
+
+
+
