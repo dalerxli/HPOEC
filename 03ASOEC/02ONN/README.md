@@ -34,7 +34,7 @@ Nature, 2020.
 
 **Deep learning with coherent nanophotonic circuits.**<br>
 *Y. Shen, N. C. Harris, S. Skirlo, M. Prabhu, T. Baehr-Jones, M. Hochberg, X. Sun, S. Zhao, H. Larochelle, D. Englund, and M. Soljacic.*<br>
-Nat. Photonics, 2017, 11(7), 441–446.
+Nature Photonics, 2017, 11(7), 441–446.
 
 **Training of photonic neural networks through in situ backpropagation and gradient measurement.**<br>
 *T. W. Hughes, M. Minkov, Y. Shi, and S. Fan.*<br>
@@ -43,7 +43,7 @@ Optica, 2018, 5(7), 864–871.
 
 **Reprogrammable Electro-Optic Nonlinear Activation Functions for Optical Neural Networks.**<br>
 *I. A. Williamson, T. W. Hughes, M. Minkov, B. Bartlett, S. Pai, and S. Fan.*<br>
-2020, 26(1):7700412.
+IEEE Journal of Selected Topics in Quantum Electronics, 2020, 26(1):7700412.
 [[Github](https://github.com/fancompute/neuroptica)]
 
 **Matrix Optimization on Universal Unitary Photonic Devices.**<br>

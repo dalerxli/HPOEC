@@ -41,7 +41,7 @@ Photonics Research, 2018.
 ## Gradient-based Methods
 
 **Adjoint shape optimization applied to electromagnetic design.**<br>
-Optics, 2013.
+Optics Express, 2013.
 [[Github](https://github.com/chriskeraly/lumopt)]
 
 **Nanophotonic Inverse Design with SPINS: Software Architecture and Practical Considerations.**<br>
