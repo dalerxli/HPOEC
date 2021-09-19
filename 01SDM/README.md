@@ -1,6 +1,6 @@
 # Semiconductor Design and Manufacturing (SDM)
 
-## AdvancedMaterials
+## Advanced Materials
 
 ## Semiconductor Design&Manufacturing
 

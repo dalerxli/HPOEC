@@ -1,1 +1,1 @@
-# Parallel Computing (PC)
+# Parallel Computing
