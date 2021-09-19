@@ -44,6 +44,11 @@ Photonics Research, 2018.
 Optics Express, 2013.
 [[Github](https://github.com/chriskeraly/lumopt)]
 
+**Adjoint method and inverse design for nonlinear nanophotonic devices.**<br>
+*T.W. Hughes, S. Fan, and et al.*<br>
+ACS Photonics, 2018, 5(12):4781–4787.
+[[Github](https://github.com/fancompute/angler)]
+
 **Nanophotonic Inverse Design with SPINS: Software Architecture and Practical Considerations.**<br>
 *J. Vučković, and et al.*<br>
 APR, 2020.
@@ -53,10 +58,9 @@ APR, 2020.
 *K.Y. Yang, J. Vučković, and et al.*<br>
 Nature Photonics, 2020, 14:369–374.
 
-**Adjoint method and inverse design for nonlinear nanophotonic devices.**<br>
-*T.W. Hughes, S. Fan, and et al.*<br>
-ACS Photonics, 2018, 5(12):4781–4787.
-[[Github](https://github.com/fancompute/angler)]
+**Inverse design of plasma metamaterial devices for optical computing.**<br>
+*JA Rodriguez, AI Abdalla, B Wang, B Lou, S Fan, MA Cappelli.*<br>
+arXiv preprint arXiv:2102.05148, 2021.
 
 ## Evolutionary-based Methods
 
