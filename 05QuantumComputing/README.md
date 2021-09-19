@@ -102,6 +102,7 @@ npj Quantum Information, 2019, 5, 60.
 [[Github](https://github.com/thisac/qecco)]
 
 **Continuous-variable quantum neural networks.**<br>
+*N Killoran, TR Bromley, JM Arrazola, M Schuld, et al.*<br>
 Physical Review Research, 2019.
 
 **Training deep quantum neural networks.**<br>
@@ -110,13 +111,17 @@ Nat Commun 11, 808 (2020).
 [[Github](https://github.com/qigitphannover/DeepQuantumNeuralNetworks)]
 
 **Transfer learning in hybrid classical-quantum neural networks.**<br>
+*A Mari, TR Bromley, J Izaac, M Schuld, N Killoran.*<br>
 Quantum, 2020.
 
 **The power of quantum neural networks.**<br>
+*A Abbas, D Sutter, C Zoufal, A Lucchi, A Figalli, et al.*<br>
 Nature Computational Science, 2021.
 
 **Deep Reinforcement Learning With Quantum-Inspired Experience Replay.**<br>
+*Q Wei, H Ma, C Chen, D Dong.*<br>
 IEEE Transactions on Cybernetics, 2021.
 
 **QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits.**<br>
+*H Wang, Y Ding, J Gu, Y Lin, DZ Pan, FT Chong, et al.*<br>
 ArXiv, 2021.
