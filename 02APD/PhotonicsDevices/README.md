@@ -1,5 +1,9 @@
 # Photonics Devices
 
+## Journal
+
+*IEEE Transactions on Antennas and Propagation (TAP)*<br>
+
 ## Group
 
 **Michal Lipson**<br>
@@ -12,7 +16,5 @@
 [[Homepage](https://person.zju.edu.cn/dxdai/)]
 [[Google Scholar](https://scholar.google.com.hk/citations?user=Wo4BMCsAAAAJ&hl=zh-CN&oi=ao)]
 
-## Journal
 
-*IEEE Transactions on Antennas and Propagation (TAP)*<br>
 

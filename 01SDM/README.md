@@ -2,5 +2,5 @@
 
 ## Advanced Materials
 
-## Semiconductor Design&Manufacturing
+## Semiconductor Design and Manufacturing (SDM)
 

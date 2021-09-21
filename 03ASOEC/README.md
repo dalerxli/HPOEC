@@ -30,7 +30,7 @@
 **Optical computing.**<br>
 Nanophotonics, 2017.
 
-## Analog Computing
+## Analog Computing (AC)
 
 **Analog optical computing.**<br>
 *DR Solli, B Jalali.*<br>
