@@ -12,11 +12,24 @@
 
 *International Conference on Computer-Aided Design (ICCAD)*<br>
 
+## Group
+
+**David Z. Pan**<br>
+*University of Texas at Austin*<br>
+[[Homepage](http://users.ece.utexas.edu/~dpan/)]
+[[Github](https://xueshu.lanfanshu.cn/citations?user=3aLlroEAAAAJ&hl=zh-CN)]
+
+**Bei Yu**<br>
+*Chinese University of Hong Kong*<br>
+[[Homepage](http://www.cse.cuhk.edu.hk/~byu/)]
+[[Github](https://xueshu.lanfanshu.cn/citations?user=tGneTm4AAAAJ&hl=zh-CN)]
+
 ## Review
 
 ### Design
 
 **Machine Learning for Electronic Design Automation A Survey.**<br>
+*G Huang, J Hu, Y He, J Liu, M Ma, Z Shen, et al.*<br>
 TODAES, 2021.
 
 ### Manufacturing
@@ -39,6 +52,7 @@ ICML, 2017.
 IEEE MICRO, 2020.
 
 **DREAMPlace Deep Learning Toolkit-Enabled GPU Acceleration.**<br>
+*Y Lin, Z Jiang, J Gu, W Li, S Dhar, H Ren, et al.*<br>
 IEEE TCAD, 2020.
 
 **Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability.**<br>
