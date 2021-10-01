@@ -1,10 +1,5 @@
 # Inverse Design and Optimization of Photonics Devices
 
-## Business
-
-**Flexcompute**<br>
-[[Homepage](https://www.flexcompute.com/welcome.html)]
-
 ## Group
 
 **Shanhui Fan**<br>
@@ -23,6 +18,11 @@
 [[Homepage](http://faculty.ee.princeton.edu/arodriguez/)]
 [[Google Scholar](https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en)]
 
+## Business
+
+**Flexcompute**<br>
+[[Homepage](https://www.flexcompute.com/welcome.html)]
+
 ## Review
 
 **Inverse design in nanophotonics.**<br>
@@ -30,6 +30,10 @@
 Nature Photonics, 2018, 12:659–670.
 
 ## Search-based Methods
+
+**Ultra-high-efficiency metamaterial polarizer.**<br>
+*B Shen, P Wang, R Polson, R Menon.*<br>
+Optica, 2014.
 
 **An integrated-nanophotonics polarization beamsplitter with 2.4 × 2.4 μm2 footprint.**<br>
 *B. Shen, and et al.*<br>
@@ -64,11 +68,21 @@ arXiv preprint arXiv:2102.05148, 2021.
 
 ## Evolutionary-based Methods
 
+### GA
+
 **Optimization for Gold Nanostructure-Based Surface Plasmon Biosensors Using a Microgenetic Algorithm.**<br>
 ACS Photonics, 2018.
 
 **Complex Inverse Design of Meta-optics by Segmented Hierarchical Evolutionary Algorithm**<br>
-ACS Nano, 2020.
+ACS Nano, 2019.
+
+### PSO
+
+**Binary particle swarm optimized 2 × 2 power splitters in a standard foundry silicon photonic platform.**<br>
+Optics Letters, 2016.
+
+**Inverse design of multifunctional plasmonic metamaterial absorbers for infrared polarimetric imaging**<br>
+Optics Express, 2019.
 
 ## Model-based Methods
 
@@ -76,12 +90,26 @@ ACS Nano, 2020.
 *J. Peurifoy, and et al.*<br>
 Science Advance, 2018, 4(6):eaar4206.
 
+**Deep-learning-enabled on-demand design of chiral metamaterials.**<br>
+*W Ma, F Cheng, Y Liu.*<br>
+ACS nano, 2018.
+
+**Generative model for the inverse design of metasurfaces.**<br>
+*Z Liu, D Zhu, SP Rodrigues, KT Lee, W Cai.*<br>
+Nano letters, 2018.
+
+**Efficient spectrum prediction and inverse design for plasmonic waveguide systems based on artificial neural networks.**<br>
+*T Zhang, J Wang, Q Liu, J Zhou, J Dai, X Han, et al.*<br>
+Photonics Research, 2019.
+
 **A Deep Learning Approach for Objective-Driven All-Dielectric Metasurface Design.**<br>
 *S. An, and et al.*<br>
 ACS Photonics, 2020.
 [[Github](https://github.com/SensongAn/Meta-atoms-data-sharing)]
 
-
+**Phase-to-pattern inverse design paradigm for fast realization of functional metasurfaces via transfer learning.**<br>
+*R Zhu, T Qiu, J Wang, S Sui, C Hao, T Liu, Y Li, et al.*<br>
+Nature Communications, 2021.
 
 
 
