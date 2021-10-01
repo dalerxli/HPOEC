@@ -8,6 +8,10 @@
 
 *PRX Quantum*<br>
 
+## Conference
+
+*IEEE International Conference on Quantum Computing and Engineering (QCE)*<br>
+
 ## Resource
 
 **quantum-inspired-algorithms**<br>

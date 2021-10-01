@@ -89,6 +89,22 @@ Physical Review Applied, 2019, 11(6):064044.
 IEEE Journal of Selected Topics in Quantum Electronics, 2020, 26(1):1-12.
 [[Github](https://github.com/solgaardlab/neurophox)]
 
+**Efficient On-Chip Training of Optical Neural Networks Using Genetic Algorithm.**<br>
+*H Zhang, J Thompson, M Gu, XD Jiang, H Cai, et al.*<br>
+ACS Photonics, 2021.
+
+**Parallel convolutional processing using an integrated photonic tensor core.**<br>
+*J Feldmann, N Youngblood, M Karpov, H Gehring, X Li, et al.*<br>
+Nature, 2021.
+
+**11 TOPS photonic convolutional accelerator for optical neural networks.**<br>
+*X Xu, M Tan, B Corcoran, J Wu, A Boes, TG Nguyen, et al.*<br>
+Nature, 2021.
+
+**Quantifying power use in silicon photonic neural networks.**<br>
+*AN Tait.*<br>
+arXiv:2108.04819, 2021.
+
 ### Diffractive ONNs
 
 **All optical machine learning using diffractive deep neural networks.**<br>
@@ -99,6 +115,10 @@ Photonics Research, 2020.
 
 **Large-scale neuromorphic optoelectronic computing with a reconfigurable diffractive processing unit.**<br>
 Nature Photonics, 2021, 15(5):367-373.
+
+**Express Wavenet: A lower parameter optical neural network with random shift wavelet pattern.**<br>
+*Y Chen, N Feng, B Hong, MS Tong, GP Wang, et al.*<br>
+Optics Communications, 2021.
 
 ## Optmization
 
