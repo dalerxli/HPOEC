@@ -35,6 +35,7 @@ TODAES, 2021.
 ### Manufacturing
 
 **Development of Smart Semiconductor Manufacturing Operations Research.**<br>
+*M Khakifirooz, M Fathi, K Wu.*<br>
 IEEE Access, 2019.
 
 ## Chip Design
