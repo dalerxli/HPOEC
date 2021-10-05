@@ -36,15 +36,17 @@ Nature Photonics, 2018, 12:659–670.
 Optica, 2014.
 
 **An integrated-nanophotonics polarization beamsplitter with 2.4 × 2.4 μm2 footprint.**<br>
-*B. Shen, and et al.*<br>
+*B Shen, P Wang, R Polson, R Menon.*<br>
 Nature Photonics, 2015, 9:378–382.
 
 **Ultra-compact broadband polarization beam splitter with strong expansibility.**<br>
+*J Huang, J Yang, D Chen, X He, Y Han, and et al.*<br>
 Photonics Research, 2018.
 
 ## Gradient-based Methods
 
 **Adjoint shape optimization applied to electromagnetic design.**<br>
+*CM Lalau-Keraly, S Bhargava, OD Miller, and et al.*<br>
 Optics Express, 2013.
 [[Github](https://github.com/chriskeraly/lumopt)]
 
@@ -71,17 +73,21 @@ arXiv preprint arXiv:2102.05148, 2021.
 ### GA
 
 **Optimization for Gold Nanostructure-Based Surface Plasmon Biosensors Using a Microgenetic Algorithm.**<br>
+*PH Fu, SC Lo, PC Tsai, KL Lee, PK Wei.*<br>
 ACS Photonics, 2018.
 
-**Complex Inverse Design of Meta-optics by Segmented Hierarchical Evolutionary Algorithm**<br>
+**Complex Inverse Design of Meta-optics by Segmented Hierarchical Evolutionary Algorithm.**<br>
+*Z Jin, S Mei, S Chen, Y Li, C Zhang, Y He, X Yu, C Yu, and et al.*<br>
 ACS Nano, 2019.
 
 ### PSO
 
 **Binary particle swarm optimized 2 × 2 power splitters in a standard foundry silicon photonic platform.**<br>
+*JCC Mak, C Sideris, J Jeong, A Hajimiri, and et al.*<br>
 Optics Letters, 2016.
 
-**Inverse design of multifunctional plasmonic metamaterial absorbers for infrared polarimetric imaging**<br>
+**Inverse design of multifunctional plasmonic metamaterial absorbers for infrared polarimetric imaging.**<br>
+*J Li, L Bao, S Jiang, Q Guo, D Xu, B Xiong, and et al.*<br>
 Optics Express, 2019.
 
 ## Model-based Methods
