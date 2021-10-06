@@ -58,7 +58,7 @@ Science Bulletin, 2021.
 
 **Reinforcement learning enhanced quantum-inspired algorithm for combinatorial optimization.**<br>
 *D Beloborodov, AE Ulanov, JN Foerster, et al.*<br>
-Mach. Learn. Sci. Technol., 2021.
+Machine Learning: Science and Technology, 2021.
 
 ### Quantum Computing
 
@@ -140,7 +140,7 @@ Physical Review Research, 2019.
 
 **Training deep quantum neural networks.**<br>
 *K. Beer, D. Bondarenko, T. Farrelly, T. J. Osborne, R. Salzmann, and R. Wolf.*<br>
-Nat Commun 11, 808 (2020).
+Nature Communications, 2020.
 [[Github](https://github.com/qigitphannover/DeepQuantumNeuralNetworks)]
 
 **Transfer learning in hybrid classical-quantum neural networks.**<br>
