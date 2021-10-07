@@ -41,15 +41,19 @@ IEEE Access, 2019.
 ## Chip Design
 
 **Replace: Advancing solution quality and routability validation in global placement.**<br>
+*CK Cheng, AB Kahng, I Kang, et al.*<br>
 IEEE TCAD, 2015.
 
 **ePlace: Electrostatics-based placement using fast fourier transform and Nesterov's method.**<br>
+*J Lu, P Chen, CC Chang, L Sha, DJH Huang, et al.*<br>
 TODAES, 2015.
 
 **Device placement optimization with reinforcement learning.**<br>
+*A Mirhoseini, H Pham, QV Le, et al.*<br>
 ICML, 2017.
 
 **Accelerating Chip Design With Machine Learning.**<br>
+*B Khailany, H Ren, S Dai, S Godil, B Keller, et al.*<br>
 IEEE MICRO, 2020.
 
 **DREAMPlace Deep Learning Toolkit-Enabled GPU Acceleration.**<br>
@@ -57,12 +61,15 @@ IEEE MICRO, 2020.
 IEEE TCAD, 2020.
 
 **Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability.**<br>
+*J Gu, Z Zhao, C Feng, Z Ying, M Liu, et al.*<br>
 IEEE TCAD, 2020.
 
 **Quantum circuit optimization with deep reinforcement learning.**<br>
+*T Fösel, MY Niu, F Marquardt, L Li.*<br>
 ArXiv, 2021.
 
 **A graph placement methodology for fast chip design.**<br>
+*A Mirhoseini, A Goldie, M Yazgan, JW Jiang, et al.*<br>
 Nature, 2021.
 
 ## Defect Detection
