@@ -147,4 +147,8 @@ Optica, 2020.
 *SK Vadlamani, TP Xiao, et al.*<br>
 PNAS, 2020.
 
+## Communications & Network (CN)
 
+**Photonic Computing to Accelerate Data Processing in Wireless Communications.**<br>
+*M Salmani, A Eshaghi, E Luan, S Saha.*<br>
+Optics Express, 2021.
