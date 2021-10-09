@@ -1,25 +1,5 @@
 # Quantum Computing
 
-## Journal
-
-*npj Quantum Information*<br>
-
-*Quantum*<br>
-
-*PRX Quantum*<br>
-
-## Conference
-
-*IEEE International Conference on Quantum Computing and Engineering (QCE)*<br>
-
-## Resource
-
-**quantum-inspired-algorithms**<br>
-[[Github](https://github.com/XanaduAI/quantum-inspired-algorithms)]
-
-**awesome-quantum-machine-learning**<br>
-[[Github](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)]
-
 ## Business
 
 **Xanadu**<br>
@@ -39,6 +19,26 @@
 *MIT-Quantum Photonics-Laboratory*<br>
 [[Homepage](https://www.rle.mit.edu/qp/people/)]
 [[Google Scholar](https://scholar.google.co.jp/citations?user=ZFpENKoAAAAJ&hl=en&oi=ao)]
+
+## Journal
+
+*npj Quantum Information*<br>
+
+*Quantum*<br>
+
+*PRX Quantum*<br>
+
+## Conference
+
+*IEEE International Conference on Quantum Computing and Engineering (QCE)*<br>
+
+## Resource
+
+**quantum-inspired-algorithms**<br>
+[[Github](https://github.com/XanaduAI/quantum-inspired-algorithms)]
+
+**awesome-quantum-machine-learning**<br>
+[[Github](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)]
 
 ## Quantum Computing
 

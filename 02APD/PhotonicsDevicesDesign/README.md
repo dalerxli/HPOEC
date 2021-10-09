@@ -1,5 +1,10 @@
 # Inverse Design and Optimization of Photonics Devices
 
+## Business
+
+**Flexcompute**<br>
+[[Homepage](https://www.flexcompute.com/welcome.html)]
+
 ## Group
 
 **Shanhui Fan**<br>
@@ -17,11 +22,6 @@
 *Princeton University-Nanophotonics Design and Computation Group*<br>
 [[Homepage](http://faculty.ee.princeton.edu/arodriguez/)]
 [[Google Scholar](https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en)]
-
-## Business
-
-**Flexcompute**<br>
-[[Homepage](https://www.flexcompute.com/welcome.html)]
 
 ## Review
 
