@@ -8,6 +8,12 @@
 **曦智科技**<br>
 [[Homepage](https://www.lightelligence.co/)]
 
+**Optalysys**<br>
+[[Homepage](https://optalysys.com/)]
+
+**Fathom Computing**<br>
+[[Homepage](https://fathomradiant.com/)]
+
 ## Group
 
 **Marin Soljacic**<br>
