@@ -37,6 +37,10 @@
 *J Touch, AH Badawy, VJ Sorger.*<br>
 Nanophotonics, 2017.
 
+**AI Accelerator Survey and Trends.**<br>
+*JA Reuther, P Michaleas, M Jones, V Gadepally, et al.*<br>
+ArXiv, 2021.
+
 ## Analog Computing (AC)
 
 **Analog optical computing.**<br>
