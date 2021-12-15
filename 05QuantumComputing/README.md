@@ -157,4 +157,4 @@ IEEE Transactions on Cybernetics, 2021.
 
 **QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits.**<br>
 *H Wang, Y Ding, J Gu, Y Lin, DZ Pan, FT Chong, et al.*<br>
-ArXiv, 2021.
+HPCA, 2021.
