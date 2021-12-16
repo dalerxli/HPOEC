@@ -41,6 +41,10 @@ Nanophotonics, 2017.
 *JA Reuther, P Michaleas, M Jones, V Gadepally, et al.*<br>
 ArXiv, 2021.
 
+**The challenges of modern computing and new opportunities for optics.**<br>
+*C Li, X Zhang, J Li, T Fang, X Dong.*<br>
+PhotoniX, 2021.
+
 ## Analog Computing (AC)
 
 **Analog optical computing.**<br>

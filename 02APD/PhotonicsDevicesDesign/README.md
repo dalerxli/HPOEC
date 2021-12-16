@@ -68,6 +68,10 @@ Nature Photonics, 2020, 14:369–374.
 *JA Rodriguez, AI Abdalla, B Wang, B Lou, S Fan, MA Cappelli.*<br>
 arXiv preprint arXiv:2102.05148, 2021.
 
+**All-optical binary computation based on inverse design method.**<br>
+*H Qi, Z Du, J Yang, X Hu, Q Gong.*<br>
+Nanophotonics, 2021.
+
 ## Evolutionary-based Methods
 
 ### GA

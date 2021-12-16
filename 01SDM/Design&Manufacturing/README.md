@@ -12,6 +12,10 @@
 [[Homepage](http://www.cse.cuhk.edu.hk/~byu/)]
 [[Github](https://xueshu.lanfanshu.cn/citations?user=tGneTm4AAAAJ&hl=zh-CN)]
 
+**Youngsoo Shin**<br>
+*KAIST*<br>
+[[Google Scholar](https://xueshu.lanfanshu.cn/citations?user=x0yClJsAAAAJ&hl=zh-CN&oi=ao)]
+
 ## Journal
 
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits And System（TCAD)*<br>
