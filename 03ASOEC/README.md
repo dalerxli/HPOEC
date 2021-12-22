@@ -31,6 +31,15 @@
 [[Homepage](https://solgaardlab.stanford.edu/)]
 [[Google Scholar](https://scholar.google.co.jp/citations?user=KW4vFygAAAAJ&hl=en&oi=ao)]
 
+**Harish Bhaskaran**<br>
+*Oxford University-Professor of Applied Nanomaterials*<br>
+[[Google Scholar](https://xueshu.lanfanshu.cn/citations?user=jwZZEfMAAAAJ&hl=zh-CN&oi=ao)]
+
+**Xin Lin**<br>
+*Tsinghua University*<br>
+[[Homepage](https://www.photoniccomputing.org/)]
+[[Google Scholar](https://xueshu.lanfanshu.cn/citations?hl=zh-CN&user=Z9hIhiEAAAAJ)]
+
 ## Review
 
 **Optical computing.**<br>

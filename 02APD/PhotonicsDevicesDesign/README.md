@@ -72,6 +72,10 @@ arXiv preprint arXiv:2102.05148, 2021.
 *H Qi, Z Du, J Yang, X Hu, Q Gong.*<br>
 Nanophotonics, 2021.
 
+**Inverse design of metasurfaces based on coupled-mode theory and adjoint optimization.**<br>
+*M Zhou, D Liu, SW Belling, H Cheng, MA Kats, and et al.*<br>
+ACS Photonics, 2021.
+
 ## Evolutionary-based Methods
 
 ### GA
