@@ -114,6 +114,10 @@ Physical Review Applied, 2019, 11(6):064044.
 IEEE Journal of Selected Topics in Quantum Electronics, 2020, 26(1):1-12.
 [[Github](https://github.com/solgaardlab/neurophox)]
 
+**Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability.**<br>
+*J Gu, Z Zhao, C Feng, Z Ying, M Liu, RT Chen, DZ Pan.*<br>
+TCAD, 2021.
+
 **Efficient On-Chip Training of Optical Neural Networks Using Genetic Algorithm.**<br>
 *H Zhang, J Thompson, M Gu, XD Jiang, H Cai, et al.*<br>
 ACS Photonics, 2021.
@@ -129,6 +133,15 @@ Nature, 2021.
 **Quantifying power use in silicon photonic neural networks.**<br>
 *AN Tait.*<br>
 arXiv:2108.04819, 2021.
+
+**L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization.**<br>
+*J Gu, H Zhu, C Feng, Z Jiang, RT Chen, DZ Pan.*<br>
+NeurIPS, 2021. 
+[[Github](https://github.com/JeremieMelo/L2ight)]
+
+**ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores.**<br>
+*J Gu, H Zhu, C Feng, Z Jiang, M Liu, S Zhang, and et al.*<br>
+arXiv:2112.08703, 2021.
 
 ### Diffractive ONNs
 
