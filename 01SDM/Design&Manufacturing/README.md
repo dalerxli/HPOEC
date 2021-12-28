@@ -1,5 +1,17 @@
 # Semiconductor Design and Manufacturing (SDM)
 
+## Journal
+
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits And System（TCAD)*<br>
+
+*ACM Transactions on Design Automation of Electronic Systems（TODAES)*<br>
+
+## Conference
+
+*Design Automation Conference (DAC)*<br>
+
+*International Conference on Computer-Aided Design (ICCAD)*<br>
+
 ## Group
 
 **David Z. Pan**<br>
@@ -15,18 +27,6 @@
 **Youngsoo Shin**<br>
 *KAIST*<br>
 [[Google Scholar](https://xueshu.lanfanshu.cn/citations?user=x0yClJsAAAAJ&hl=zh-CN&oi=ao)]
-
-## Journal
-
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits And System（TCAD)*<br>
-
-*ACM Transactions on Design Automation of Electronic Systems（TODAES)*<br>
-
-## Conference
-
-*Design Automation Conference (DAC)*<br>
-
-*International Conference on Computer-Aided Design (ICCAD)*<br>
 
 ## Review
 
