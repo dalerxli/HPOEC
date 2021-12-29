@@ -62,6 +62,8 @@ Machine Learning: Science and Technology, 2021.
 
 ### Quantum Computing
 
+#### Quantum Computing
+
 **ProjectQ an open source software framework for quantum computing.**<br>
 *DS Steiger, T Häner, M Troyer.*<br>
 Quantum, 2018.
@@ -75,7 +77,7 @@ Quantum, 2018.
 *T Fösel, MY Niu, F Marquardt, L Li.*<br>
 ArXiv, 2021.
 
-### Optical Quantum Computing
+#### Optical Quantum Computing
 
 **Photonic quantum information processing a review.**<br>
 *F Flamini, N Spagnolo, F Sciarrino.*<br>
@@ -158,3 +160,4 @@ IEEE Transactions on Cybernetics, 2021.
 **QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits.**<br>
 *H Wang, Y Ding, J Gu, Y Lin, DZ Pan, FT Chong, et al.*<br>
 HPCA, 2021.
+[[Github](https://github.com/mit-han-lab/torchquantum)]
