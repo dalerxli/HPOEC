@@ -181,6 +181,8 @@ ACS Photonics, 2020.
 *R Zhu, T Qiu, J Wang, S Sui, C Hao, T Liu, Y Li, et al.*<br>
 Nature Communications, 2021.
 
-
+**Inverse Design of High-dimensional Nanostructured 22 Optical Processors Based on Deep Convolutional Neural Networks.**<br>
+*S Mao, L Cheng, FN Khan, Z Geng, et al.*<br>
+Journal of Lightwave Technology, 2022.
 
 
