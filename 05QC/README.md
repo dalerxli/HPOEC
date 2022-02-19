@@ -28,6 +28,10 @@
 
 *PRX Quantum*<br>
 
+*Quantum Machine Intelligence*<br>
+
+*IEEE Transactions on Quantum Engineering*<br>
+
 ## Conference
 
 *IEEE International Conference on Quantum Computing and Engineering (QCE)*<br>
