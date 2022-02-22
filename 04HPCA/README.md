@@ -34,3 +34,6 @@
 
 **AI-Chip**<br>
 [[Github](https://github.com/basicmi/AI-Chip)]
+
+**Neural Networks on Silicon**<br>
+[[Github](https://github.com/fengbintu/Neural-Networks-on-Silicon)]
