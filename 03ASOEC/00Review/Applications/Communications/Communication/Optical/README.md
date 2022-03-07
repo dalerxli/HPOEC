@@ -1,0 +1,22 @@
+# Optical Communication
+
+## Journal
+
+*Journal of Optical Communications and Networking（JOCN）*<br>
+
+## Resources
+
+**claude**<br>
+[[Github](https://github.com/Rassibassi/claude)]
+
+## Review
+
+**Machine Learning Techniques in Optical Communication.**<br>
+*D. Zibar, and et al.*<br>
+Journal of Lightwave Technology, 2016, 34(6):1442.
+
+## Modulation Format Recognition
+
+**Stokes space modulation format classification based on non-iterative clustering algorithm for coherent optical receivers.**<br>
+*X. Mai, and et al.*<br>
+Optics Express, 2017, 25(3):2038.
