@@ -1,5 +1,0 @@
-# Communication & Networks
-
-## Communication
-
-## Networks
