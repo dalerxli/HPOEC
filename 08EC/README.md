@@ -1,2 +1,158 @@
 # Edge Computing
 
+## Software
+
+### AutoML
+
+#### AutoML
+
+**Amc: Automl for model compression and acceleration on mobile devices.**<br>
+*Y He, J Lin, Z Liu, H Wang, LJ Li.*<br>
+CVPR, 2018.
+
+**Auto-keras: An efficient neural architecture search system.**<br>
+*H Jin, Q Song, X Hu.*<br>
+KDD, 2019.
+
+**Auto-sklearn 2.0: The next generation.**<br>
+*JM Feurer, K Eggensperger, S Falkner, et al.*<br>
+ArXiv, 2020.
+
+**Vega: towards an end-to-end configurable automl pipeline.**<br>
+*JB Wang, H Xu, J Zhang, C Chen, X Fang, Y Xu, et al.*<br>
+ArXiv, 2020.
+
+**AutoML A survey of the state-of-the-art.**<br>
+*X He, K Zhao, X Chu.*<br>
+Knowledge-Based Systems, 2021.
+
+#### OpenSource
+
+**Neural Network Intelligence.**<br>
+[[Github](https://github.com/microsoft/nni)]
+
+#### Neural Architecture Search (NAS)
+
+**Regularized evolution for image classifier architecture search.**<br>
+*E Real, A Aggarwal, Y Huang, QV Le.*<br>
+AAAI, 2019.
+
+**Renas: Reinforced evolutionary neural architecture search.**<br>
+*Y Chen, G Meng, Q Zhang, S Xiang.*<br>
+CVPR, 2019.
+
+**Darts: Differentiable architecture search.**<br>
+*H Liu, K Simonyan, Y Yang.*<br>
+ICLR, 2019.
+
+**Neural architecture search A survey.**<br>
+*T Elsken, JH Metzen, F Hutter.*<br>
+JLMR, 2019.
+
+**A survey on evolutionary neural architecture search.**<br>
+*Y Liu, Y Sun, B Xue, M Zhang, GG Yen, et al.*<br>
+TNNLS, 2020.
+
+**Apq: Joint search for network architecture, pruning and quantization policy.**<br>
+*T Wang, K Wang, H Cai, J Lin, Z Liu.*<br>
+CVPR, 2020.
+
+**A comprehensive survey of neural architecture search: Challenges and solutions.**<br>
+*P Ren, Y Xiao, X Chang, PY Huang, Z Li, et al.*<br>
+CUSR, 2021.
+
+**A survey on evolutionary neural architecture search.**<br>
+*Y Liu, Y Sun, B Xue, M Zhang, GG Yen, et al.*<br>
+IEEE Transactions on Neural Networks and Learning Systems, 2021.
+
+### Light Models
+
+#### Lightweigh Models
+
+**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size.**<br>
+*FN Iandola, S Han, MW Moskewicz, K Ashraf, et al.*<br>
+ArXiv, 2016.
+
+**Xnor-net: Imagenet classification using binary convolutional neural networks.**<br>
+*M Rastegari, V Ordonez, J Redmon, et al.*<br>
+ECCV, 2016.
+
+**Mobilenets: Efficient convolutional neural networks for mobile vision applications.**<br>
+*AG Howard, M Zhu, B Chen, D Kalenichenko, et al.*<br>
+ArXiv, 2017.
+
+**Mobilenetv2: Inverted residuals and linear bottlenecks.**<br>
+*M Sandler, A Howard, M Zhu, et al.*<br>
+CVPR, 2018.
+
+**Shufflenet: An extremely efficient convolutional neural network for mobile devices.**<br>
+*X Zhang, X Zhou, M Lin, J Sun.*<br>
+CVPR, 2018.
+
+**Searching for mobilenetv3.**<br>
+*A Howard, M Sandler, G Chu, et al.*<br>
+CVPR, 2019.
+
+**SlimYOLOv3: Narrower, faster and better for real-time UAV applications.**<br>
+*P Zhang, Y Zhong, X Li.*<br>
+CVPR, 2019.
+
+**Efficientnet: Rethinking model scaling for convolutional neural networks.**<br>
+*M Tan, Q Le.*<br>
+ICML, 2019.
+
+**Yolov4: Optimal speed and accuracy of object detection.**<br>
+*A Bochkovskiy, CY Wang, HYM Liao.*<br>
+ArXiv, 2020.
+
+#### Model Compression
+
+**Learning Efficient Convolutional Networks Through Network Slimming.**<br>
+*Z Liu, J Li, Z Shen, G Huang, S Yan, et al.*<br>
+ICCV, 2017.
+[[Github](https://github.com/tanluren/yolov3-channel-and-layer-pruning)]
+
+**Model Compression and Hardware Acceleration for Neural Networks A Comprehensive Survey.**<br>
+*L Deng, G Li, S Han, L Shi, Y Xie.*<br> 
+Proceedings of the IEEE, 2020.
+
+**A comprehensive survey on model compression and acceleration.**<br>
+*T Choudhary, V Mishra, A Goswami, et al.*<br>
+Artificial Intelligence Review, 2020.
+
+### Training Accelerations
+
+#### Few Shot Learning
+
+**Few-shot Object Detection via Feature Reweighting.**<br>
+*B Kang, Z Liu, X Wang, F Yu, et al.*<br>
+ICCV, 2019.
+[[Github](https://github.com/bingykang/Fewshot_Detection)]
+
+**Generalizing from a few examples A survey on few-shot learning.**<br>
+*Y Wang, Q Yao, JT Kwok, LM Ni.*<br>
+CSUR, 2020.
+
+**Meta-learning of neural architectures for few-shot learning.**<br>
+*T Elsken, B Staffler, JH Metzen, et al.*<br>
+CVPR, 2020.
+
+##### Resources
+
+**Meta-Learning-Papers**<br> 
+[[Github](https://github.com/floodsung/Meta-Learning-Papers)]
+
+#### Efficient Training
+
+**TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning.**<br>
+*H Cai, C Gan, L Zhu, S Han.*<br>
+NeurIPS, 2020.
+
+## Software-Hardware Co-Design
+
+### Hardware-aware NAS
+
+**Hardware-Aware Neural Architecture Search: Survey and Taxonomy.**<br>
+*H Benmeziane, K El Maghraoui, et al.*<br>
+IJCAI, 2021.
+
