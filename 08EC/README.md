@@ -26,7 +26,7 @@ ArXiv, 2020.
 *X He, K Zhao, X Chu.*<br>
 Knowledge-Based Systems, 2021.
 
-#### OpenSource
+##### OpenSource
 
 **Neural Network Intelligence.**<br>
 [[Github](https://github.com/microsoft/nni)]
@@ -141,6 +141,12 @@ CVPR, 2020.
 
 **Meta-Learning-Papers**<br> 
 [[Github](https://github.com/floodsung/Meta-Learning-Papers)]
+
+#### Data Annotation/Labeling
+
+**Semi-automatic data annotation guided by feature space projection.**<br>
+*BC Benato, JF Gomes, AC Telea, AX Falcão.*<br>
+Pattern Recognition, 2021.
 
 #### Efficient Training
 
