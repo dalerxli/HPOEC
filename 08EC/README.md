@@ -26,8 +26,6 @@ ArXiv, 2020.
 *X He, K Zhao, X Chu.*<br>
 Knowledge-Based Systems, 2021.
 
-##### OpenSource
-
 **Neural Network Intelligence.**<br>
 [[Github](https://github.com/microsoft/nni)]
 
@@ -137,12 +135,14 @@ CSUR, 2020.
 *T Elsken, B Staffler, JH Metzen, et al.*<br>
 CVPR, 2020.
 
-##### Resources
-
 **Meta-Learning-Papers**<br> 
 [[Github](https://github.com/floodsung/Meta-Learning-Papers)]
 
 #### Data Annotation/Labeling
+
+**Semi-Automated Data Labeling.**<br>
+*M Desmond, E Duesterwald，et al.*<br>
+NeurIPS, 2020.
 
 **Semi-automatic data annotation guided by feature space projection.**<br>
 *BC Benato, JF Gomes, AC Telea, AX Falcão.*<br>
@@ -154,9 +154,31 @@ Pattern Recognition, 2021.
 *H Cai, C Gan, L Zhu, S Han.*<br>
 NeurIPS, 2020.
 
-## Software-Hardware Co-Design
+**A comprehensive survey on transfer learning.**<br>
+*F Zhuang, Z Qi, K Duan, D Xi, Y Zhu, et al.*<br>
+Proceedings of the IEEE, 2020.
 
-### Hardware-aware NAS
+## Hardware-aware
+
+**Fbnet: Hardware-aware efficient convnet design via differentiable neural architecture search.**<br>
+*B Wu, X Dai, P Zhang, Y Wang, F Sun, et al.*<br>
+CVPR, 2019.
+
+**Haq: Hardware-aware automated quantization with mixed precision.**<br>
+*K Wang, Z Liu, Y Lin, J Lin, et al.*<br>
+CVPR, 2019.
+
+**Hat: Hardware-aware transformers for efficient natural language processing.**<br>
+*H Wang, Z Wu, Z Liu, H Cai, L Zhu, C Gan, et al.*<br>
+ACL, 2020.
+
+**Once-for-all: Train one network and specialize it for efficient deployment.**<br>
+*H Cai, C Gan, T Wang, Z Zhang, S Han.*<br>
+ICLR, 2020.
+
+**HW-NAS-Bench: Hardware-aware neural architecture search benchmark.**<br>
+*C Li, Z Yu, Y Fu, Y Zhang, Y Zhao, H You, Q Yu, et al.*<br>
+ICLR, 2021.
 
 **Hardware-Aware Neural Architecture Search: Survey and Taxonomy.**<br>
 *H Benmeziane, K El Maghraoui, et al.*<br>
