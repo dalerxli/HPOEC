@@ -102,15 +102,13 @@
 *J Touch, AH Badawy, VJ Sorger.*<br>
 Nanophotonics, 2017.
 
-**AI Accelerator Survey and Trends.**<br>
-*JA Reuther, P Michaleas, M Jones, V Gadepally, et al.*<br>
-ArXiv, 2021.
-
 **The challenges of modern computing and new opportunities for optics.**<br>
 *C Li, X Zhang, J Li, T Fang, X Dong.*<br>
 PhotoniX, 2021.
 
-## Analog Computing (AC)
+## Analog Optical Computing (AOC)
+
+### Traditional AOC
 
 **Analog optical computing.**<br>
 *DR Solli, B Jalali.*<br>
@@ -136,15 +134,15 @@ Nature Communications, 2021.
 *J Wu, X Lin, Y Guo, J Liu, L Fang, S Jiao, Q Dai.*<br>
 Engineering, 2021.
 
-## Optical Neural Networks (ONNs)
+### Optical Neural Networks (ONNs)
 
-### Review
+#### Review
 
 **Inference in artificial intelligence with deep optics and photonics.**<br>
 *G Wetzstein, A Ozcan, S Gigan, S Fan, D Englund, et al.*<br>
 Nature, 2020.
 
-### Integrated ONNs
+#### Integrated ONNs
 
 **Deep learning with coherent nanophotonic circuits.**<br>
 *Y. Shen, N. C. Harris, S. Skirlo, M. Prabhu, T. Baehr-Jones, M. Hochberg, X. Sun, S. Zhao, H. Larochelle, D. Englund, and M. Soljacic.*<br>
@@ -199,25 +197,7 @@ NeurIPS, 2021.
 *J Gu, H Zhu, C Feng, Z Jiang, M Liu, S Zhang, and et al.*<br>
 arXiv:2112.08703, 2021.
 
-### Diffractive ONNs
-
-**All optical machine learning using diffractive deep neural networks.**<br>
-*X Lin, Y Rivenson, NT Yardimci, M Veli, Y Luo, et al.*<br>
-Science, 2018.
-
-**In situ optical backpropagation training of diffractive optical neural networks.**<br>
-*T Zhou, L Fang, T Yan, J Wu, Y Li, J Fan, et al.*<br>
-Photonics Research, 2020.
-
-**Large-scale neuromorphic optoelectronic computing with a reconfigurable diffractive processing unit.**<br>
-*T Zhou, X Lin, J Wu, Y Chen, H Xie, Y Li, J Fan, H Wu, et al.*<br>
-Nature Photonics, 2021, 15(5):367-373.
-
-**Express Wavenet: A lower parameter optical neural network with random shift wavelet pattern.**<br>
-*Y Chen, N Feng, B Hong, MS Tong, GP Wang, et al.*<br>
-Optics Communications, 2021.
-
-## Optmization Problems (OP)
+##### Slover
 
 **Neural combinatorial optimization with reinforcement learning.**<br>
 *I Bello, H Pham, QV Le, M Norouzi, S Bengio.*<br>
@@ -239,7 +219,33 @@ Optica, 2020.
 *SK Vadlamani, TP Xiao, et al.*<br>
 PNAS, 2020.
 
-## Communications & Network (CN)
+#### Diffractive ONNs
+
+**All optical machine learning using diffractive deep neural networks.**<br>
+*X Lin, Y Rivenson, NT Yardimci, M Veli, Y Luo, et al.*<br>
+Science, 2018.
+
+**In situ optical backpropagation training of diffractive optical neural networks.**<br>
+*T Zhou, L Fang, T Yan, J Wu, Y Li, J Fan, et al.*<br>
+Photonics Research, 2020.
+
+**Large-scale neuromorphic optoelectronic computing with a reconfigurable diffractive processing unit.**<br>
+*T Zhou, X Lin, J Wu, Y Chen, H Xie, Y Li, J Fan, H Wu, et al.*<br>
+Nature Photonics, 2021, 15(5):367-373.
+
+**Express Wavenet: A lower parameter optical neural network with random shift wavelet pattern.**<br>
+*Y Chen, N Feng, B Hong, MS Tong, GP Wang, et al.*<br>
+Optics Communications, 2021.
+
+## Digital Optical Computing (DOC)
+
+### Logic computing
+
+**All-optical logic gates based on nanoscale plasmonic slot waveguides.**<br>
+*Y Fu, X Hu, C Lu, S Yue, H Yang, Q Gong.*<br>
+Nano letters, 2012.
+
+### Communications & Network (CN)
 
 **Photonic Computing to Accelerate Data Processing in Wireless Communications.**<br>
 *M Salmani, A Eshaghi, E Luan, S Saha.*<br>
