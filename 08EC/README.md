@@ -63,6 +63,24 @@ CUSR, 2021.
 *Y Liu, Y Sun, B Xue, M Zhang, GG Yen, et al.*<br>
 IEEE Transactions on Neural Networks and Learning Systems, 2021.
 
+#### MLOps
+
+**Building continuous integration services for machine learning.**<br>
+*B Karlaš, M Interlandi, C Renggli, W Wu, et al.*<br>
+KDD, 2020.
+
+**A data quality-driven view of mlops.**<br>
+*C Renggli, L Rimanic, NM Gürel, B Karlaš, et al.*<br>
+ArXiv, 2021.
+
+**kubeflow.**<br>
+*Machine Learning Toolkit for Kubernetes.*<br>
+[[Github](https://github.com/kubeflow/kubeflow)]
+
+**mlflow.**<br>
+*Open source platform for the machine learning lifecycle.*<br>
+[[Github](https://github.com/mlflow/mlflow)]
+
 ### Light Models
 
 #### Lightweigh Models
@@ -122,7 +140,7 @@ Proceedings of the IEEE, 2020.
 *T Choudhary, V Mishra, A Goswami, et al.*<br>
 Artificial Intelligence Review, 2020.
 
-#### model Deployment
+#### Model Deployment
 
 **Efficient inference with tensorrt.**<br>
 *H Vanholder.*<br>
