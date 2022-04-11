@@ -103,6 +103,10 @@ ICML, 2019.
 *A Bochkovskiy, CY Wang, HYM Liao.*<br>
 ArXiv, 2020.
 
+**Efficientdet: Scalable and efficient object detection.**<br>
+*M Tan, R Pang, QV Le, et al.*<br>
+CVPR, 2020.
+
 #### Model Compression
 
 **Learning Efficient Convolutional Networks Through Network Slimming.**<br>
@@ -117,6 +121,28 @@ Proceedings of the IEEE, 2020.
 **A comprehensive survey on model compression and acceleration.**<br>
 *T Choudhary, V Mishra, A Goswami, et al.*<br>
 Artificial Intelligence Review, 2020.
+
+#### model Deployment
+
+**Efficient inference with tensorrt.**<br>
+*H Vanholder.*<br>
+GPU Technology Conference, 2016.
+
+**Openvino deep learning workbench: Comprehensive analysis and tuning of neural networks inference.**<br>
+*Y Gorbachev, M Fedorov, I Slavutin, et al.*<br>
+ICCV, 2019.
+
+**mmdeploy.**<br>
+*OpenMMLab Model Deployment Framework.*<br>
+[[Github](https://github.com/open-mmlab/mmdeploy)]
+
+**MNN.**<br>
+*MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.*<br>
+[[Github](https://github.com/alibaba/MNN)]
+
+**NCNN.**<br>
+*ncnn is a high-performance neural network inference framework optimized for the mobile platform.*<br>
+[[Github](https://github.com/Tencent/ncnn)]
 
 ### Training Accelerations
 
