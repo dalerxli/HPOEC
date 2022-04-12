@@ -1,5 +1,19 @@
 # Parallel Computing
 
+## Parallel Computing
+
+**GPUs and the future of parallel computing.**<br>
+*SW Keckler, WJ Dally, B Khailany, M Garland, et al.*<br>
+IEEE micro, 2011.
+
+**High-performance parallel computing for next-generation holographic imaging.**<br>
+*T Sugie, T Akamatsu, T Nishitsuji, R Hirayama, et al.*<br>
+Nature Electronics, 2018.
+
+**Parallel optical computing based on mimo metasurface processors with asymmetric optical response.**<br>
+*A Babaee, A Momeni, A Abdolali, R Fleury.*<br>
+ArXiv, 2020.
+
 ## Distributed Machine Learning
 
 **Scaling distributed machine learning with the parameter server.**<br>
@@ -14,9 +28,5 @@ CSUR, 2020.
 *R Mayer, HA Jacobsen.*<br>
 CSUR, 2020.
 
-## Parallel Optical Computing
 
-**Parallel optical computing based on mimo metasurface processors with asymmetric optical response.**<br>
-*A Babaee, A Momeni, A Abdolali, R Fleury.*<br>
-ArXiv, 2020.
 
