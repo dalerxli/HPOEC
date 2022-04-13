@@ -228,3 +228,21 @@ ICLR, 2021.
 *H Benmeziane, K El Maghraoui, et al.*<br>
 IJCAI, 2021.
 
+## Embedded Machine Learning
+
+**Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers.**<br>
+*C Banbury, C Zhou, I Fedorov, et al.*<br>
+MLSys, 2021.
+
+**TensorFlow lite micro: Embedded machine learning for tinyml systems.**<br>
+*R David, J Duke, A Jain, et al.*<br>
+MLSys, 2021.
+
+**Enable deep learning on mobile devices: Methods, systems, and applications.**<br>
+*H Cai, J Lin, Y Lin, Z Liu, H Tang, H Wang, et al.*<br>
+TODAES, 2022.
+
+**awesome-emdl**<br> 
+*Embedded and mobile deep learning research resources.*<br>
+[[Github](https://github.com/csarron/awesome-emdl)]
+
