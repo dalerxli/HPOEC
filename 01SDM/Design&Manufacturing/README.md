@@ -38,9 +38,17 @@
 
 ### Design
 
+**Accelerating Chip Design With Machine Learning.**<br>
+*B Khailany, H Ren, S Dai, S Godil, B Keller, et al.*<br>
+IEEE MICRO, 2020.
+
 **Machine Learning for Electronic Design Automation A Survey.**<br>
 *G Huang, J Hu, Y He, J Liu, M Ma, Z Shen, et al.*<br>
 TODAES, 2021.
+
+**Reinforcement Learning for Electronic Design Automation: Case Studies and Perspectives.**<br>
+*AF Budak, Z Jiang, K Zhu, A Mirhoseini, et al.*<br>
+ASPDAC, 2022.
 
 ### Manufacturing
 
@@ -48,7 +56,23 @@ TODAES, 2021.
 *M Khakifirooz, M Fathi, K Wu.*<br>
 IEEE Access, 2019.
 
-## Chip Design
+## EDA
+
+### Design Space Exploration (DSE)
+
+**Magnet: A modular accelerator generator for neural networks.**<br>
+*R Venkatesan, YS Shao, M Wang, et al.*<br>
+ICCAD, 2019.
+
+**ZigZag: Enlarging joint architecture-mapping design space exploration for DNN accelerators.**<br>
+*L Mei, P Houshmand, V Jain, S Giraldo, et al.*<br>
+IEEE Transactions on Computer, 2021.
+
+**A full-stack search technique for domain optimized deep learning accelerators.**<br>
+*D Zhang, S Huda, E Songhori, K Prabhu, Q Le, et al.*<br>
+ASPLOS, 2022.
+
+### Placement
 
 **Replace: Advancing solution quality and routability validation in global placement.**<br>
 *CK Cheng, AB Kahng, I Kang, et al.*<br>
@@ -62,25 +86,27 @@ TODAES, 2015.
 *A Mirhoseini, H Pham, QV Le, et al.*<br>
 ICML, 2017.
 
-**Accelerating Chip Design With Machine Learning.**<br>
-*B Khailany, H Ren, S Dai, S Godil, B Keller, et al.*<br>
-IEEE MICRO, 2020.
-
 **DREAMPlace Deep Learning Toolkit-Enabled GPU Acceleration.**<br>
 *Y Lin, Z Jiang, J Gu, W Li, S Dhar, H Ren, et al.*<br>
 IEEE TCAD, 2020.
 
-**Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability.**<br>
-*J Gu, Z Zhao, C Feng, Z Ying, M Liu, et al.*<br>
-IEEE TCAD, 2020.
-
-**Quantum circuit optimization with deep reinforcement learning.**<br>
-*T Fösel, MY Niu, F Marquardt, L Li.*<br>
-ArXiv, 2021.
-
 **A graph placement methodology for fast chip design.**<br>
 *A Mirhoseini, A Goldie, M Yazgan, JW Jiang, et al.*<br>
 Nature, 2021.
+
+**On Joint Learning for Solving Placement and Routing in Chip Design.**<br>
+*R Cheng, J Yan.*<br>
+NeurlPS, 2021.
+
+**Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview.**<br>
+*J Yan, X Lyu, R Cheng, Y Lin.*<br>
+ArXiv, 2022.
+
+## PDA
+
+**Silicon photonics circuit design: methods, tools and challenges.**<br>
+*W Bogaerts, L Chrostowski.*<br>
+Laser & Photonics Reviews, 2018.
 
 ## Defect Detection
 
