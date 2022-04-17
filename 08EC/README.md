@@ -219,17 +219,17 @@ Artificial Intelligence Review, 2020.
 *L Deng, G Li, S Han, L Shi, Y Xie.*<br> 
 Proceedings of the IEEE, 2020.
 
-**mlflow.**<br>
-*Open source platform for the machine learning lifecycle.*<br>
-[[Github](https://github.com/mlflow/mlflow)]
+**Tencent/PocketFlow.**<br>
+*An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.*<br>
+[[Github](https://github.com/Tencent/PocketFlow)]
 
-**mlflow.**<br>
-*Open source platform for the machine learning lifecycle.*<br>
-[[Github](https://github.com/mlflow/mlflow)]
+**PaddlePaddle/PaddleSlim.**<br>
+*PaddleSlim is an open-source library for deep model compression and architecture search.*<br>
+[[Github](https://github.com/PaddlePaddle/PaddleSlim)]
 
-**mlflow.**<br>
-*Open source platform for the machine learning lifecycle.*<br>
-[[Github](https://github.com/mlflow/mlflow)]
+**alibaba/TinyNeuralNetwork.**<br>
+*TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.*<br>
+[[Github](https://github.com/alibaba/TinyNeuralNetwork)]
 
 #### Model Deployment
 
@@ -240,6 +240,10 @@ GPU Technology Conference, 2016.
 **Openvino deep learning workbench: Comprehensive analysis and tuning of neural networks inference.**<br>
 *Y Gorbachev, M Fedorov, I Slavutin, et al.*<br>
 ICCV, 2019.
+
+**ahkarami/Deep-Learning-in-Production.**<br>
+*In this repository, I will share some useful notes and references about deploying deep learning-based models in production.*<br>
+[[Github](https://github.com/ahkarami/Deep-Learning-in-Production)]
 
 **mmdeploy.**<br>
 *OpenMMLab Model Deployment Framework.*<br>
@@ -270,7 +274,8 @@ CSUR, 2020.
 *T Elsken, B Staffler, JH Metzen, et al.*<br>
 CVPR, 2020.
 
-**Meta-Learning-Papers**<br> 
+**Meta-Learning-Papers**<br>
+*Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning.*<br>
 [[Github](https://github.com/floodsung/Meta-Learning-Papers)]
 
 #### Data Annotation/Labeling
@@ -279,9 +284,17 @@ CVPR, 2020.
 *M Desmond, E Duesterwald，et al.*<br>
 NeurIPS, 2020.
 
+**Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface.**<br>
+*M Desmond, M Muller, Z Ashktorab, C Dugan, et al.*<br>
+ICIUR, 2021.
+
 **Semi-automatic data annotation guided by feature space projection.**<br>
 *BC Benato, JF Gomes, AC Telea, AX Falcão.*<br>
 Pattern Recognition, 2021.
+
+**heartexlabs/label-studio**<br>
+*Label Studio is a multi-type data labeling and annotation tool with standardized output format.*<br>
+[[Github](https://github.com/heartexlabs/label-studio)]
 
 #### Efficient Training
 
@@ -293,6 +306,11 @@ NeurIPS, 2020.
 *F Zhuang, Z Qi, K Duan, D Xi, Y Zhu, et al.*<br>
 Proceedings of the IEEE, 2020.
 
+**Bag of Tricks for Adversarial Training.**<br>
+*T Pang, X Yang, Y Dong, H Su, J Zhu.*<br>
+ICLR, 2021.
+[[Github](https://github.com/hacktfj/Bag-of-Tricks-for-AT)]
+
 ## Hardware-aware
 
 **Fbnet: Hardware-aware efficient convnet design via differentiable neural architecture search.**<br>
@@ -302,6 +320,10 @@ CVPR, 2019.
 **Haq: Hardware-aware automated quantization with mixed precision.**<br>
 *K Wang, Z Liu, Y Lin, J Lin, et al.*<br>
 CVPR, 2019.
+
+**Proxylessnas: Direct neural architecture search on target task and hardware.**<br>
+*H Cai, L Zhu, S Han.*<br>
+ICLR, 2019.
 
 **Hat: Hardware-aware transformers for efficient natural language processing.**<br>
 *H Wang, Z Wu, Z Liu, H Cai, L Zhu, C Gan, et al.*<br>
