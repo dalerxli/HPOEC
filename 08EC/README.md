@@ -12,7 +12,12 @@ CVPR, 2018.
 
 **Auto-keras: An efficient neural architecture search system.**<br>
 *H Jin, Q Song, X Hu.*<br>
-KDD, 2019.
+KDD, 2019.[[Github](https://github.com/keras-team/autokeras)]
+
+**Autogluon-tabular: Robust and accurate automl for structured data.**<br>
+*JN Erickson, J Mueller, A Shirkov, H Zhang, et al.*<br>
+ArXiv, 2020.
+[[Github](https://github.com/awslabs/autogluon)]
 
 **Auto-sklearn 2.0: The next generation.**<br>
 *JM Feurer, K Eggensperger, S Falkner, et al.*<br>
@@ -21,15 +26,45 @@ ArXiv, 2020.
 **Vega: towards an end-to-end configurable automl pipeline.**<br>
 *JB Wang, H Xu, J Zhang, C Chen, X Fang, Y Xu, et al.*<br>
 ArXiv, 2020.
+[[Github](https://github.com/vega/vega)]
 
 **AutoML A survey of the state-of-the-art.**<br>
 *X He, K Zhao, X Chu.*<br>
 Knowledge-Based Systems, 2021.
 
-**Neural Network Intelligence.**<br>
+**AutoSNN Towards Energy-Efficient Spiking Neural Networks.**<br>
+*B Na, J Mok, S Park, D Lee, H Choe, S Yoon.*<br>
+ArXiv, 2022.
+
+**windmaple/awesome-AutoML.**<br>
+*Curating a list of AutoML-related research, tools, projects and other resources.*<br>
+[[Github](https://github.com/hibayesian/awesome-automl-papers)]
+
+**hibayesian/awesome-automl-papers.**<br>
+*A curated list of automated machine learning papers, articles, tutorials, slides and projects.*<br>
+[[Github](https://github.com/microsoft/FLAML)]
+
+**microsoft/FLAML.**<br>
+*A fast library for AutoML and tuning.*<br>
+[[Github](https://github.com/microsoft/FLAML)]
+
+**microsoft/nni.**<br>
+*An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.*<br>
 [[Github](https://github.com/microsoft/nni)]
 
 #### Neural Architecture Search (NAS)
+
+**Neural architecture search with reinforcement learning.**<br>
+*B Zoph, QV Le.*<br>
+ArXiv, 2016.
+
+**Progressive neural architecture search.**<br>
+*C Liu, B Zoph, M Neumann, J Shlens, at al.*<br>
+ICML, 2018.
+
+**Efficient neural architecture search via parameters sharing.**<br>
+*H Pham, M Guan, B Zoph, Q Le, et al.*<br>
+ECCV, 2018.
 
 **Regularized evolution for image classifier architecture search.**<br>
 *E Real, A Aggarwal, Y Huang, QV Le.*<br>
@@ -42,6 +77,10 @@ CVPR, 2019.
 **Darts: Differentiable architecture search.**<br>
 *H Liu, K Simonyan, Y Yang.*<br>
 ICLR, 2019.
+
+**Deepswarm: Optimising convolutional neural networks using swarm intelligence.**<br>
+*E Byla, W Pang.*<br>
+UK Workshop on Computational Intelligence, 2019.
 
 **Neural architecture search A survey.**<br>
 *T Elsken, JH Metzen, F Hutter.*<br>
@@ -63,6 +102,14 @@ CUSR, 2021.
 *Y Liu, Y Sun, B Xue, M Zhang, GG Yen, et al.*<br>
 IEEE Transactions on Neural Networks and Learning Systems, 2021.
 
+**joeddav/devol.**<br>
+*Genetic neural architecture search with Keras.*<br>
+[[Github](https://github.com/joeddav/devol)]
+
+**deephyper/deephyper.**<br>
+*DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks.*<br>
+[[Github](https://github.com/deephyper/deephyper)]
+
 #### MLOps
 
 **Building continuous integration services for machine learning.**<br>
@@ -72,6 +119,22 @@ KDD, 2020.
 **A data quality-driven view of mlops.**<br>
 *C Renggli, L Rimanic, NM Gürel, B Karlaš, et al.*<br>
 ArXiv, 2021.
+
+**TinyMLOps: Operational Challenges for Widespread Edge AI Adoption.**<br>
+*S Leroux, P Simoens, M Lootus, K Kathore, et al.*<br>
+ArXiv, 2022.
+
+**visenger/awesome-mlops.**<br>
+*A curated list of references for MLOps.*<br>
+[[Github](https://github.com/visenger/awesome-mlops)]
+
+**kelvins/awesome-mlops.**<br>
+*A curated list of awesome MLOps tools.*<br>
+[[Github](https://github.com/kelvins/awesome-mlops)]
+
+**zenml-io/zenml.**<br>
+*ZenML 🙏: MLOps framework to create reproducible pipelines.*<br>
+[[Github](https://github.com/zenml-io/zenml)]
 
 **kubeflow.**<br>
 *Machine Learning Toolkit for Kubernetes.*<br>
@@ -83,7 +146,7 @@ ArXiv, 2021.
 
 ### Light Models
 
-#### Lightweigh Models
+#### Lightweight Models
 
 **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size.**<br>
 *FN Iandola, S Han, MW Moskewicz, K Ashraf, et al.*<br>
@@ -125,6 +188,14 @@ ArXiv, 2020.
 *M Tan, R Pang, QV Le, et al.*<br>
 CVPR, 2020.
 
+**guan-yuan/awesome-AutoML-and-Lightweight-Models.**<br>
+*A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.*<br>
+[[Github](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)]
+
+**DefTruth/lite.ai.toolkit.**<br>
+*🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, MODNet, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX . MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.*<br>
+[[Github](DefTruth/lite.ai.toolkit)]
+
 #### Model Compression
 
 **Learning Efficient Convolutional Networks Through Network Slimming.**<br>
@@ -132,13 +203,33 @@ CVPR, 2020.
 ICCV, 2017.
 [[Github](https://github.com/tanluren/yolov3-channel-and-layer-pruning)]
 
-**Model Compression and Hardware Acceleration for Neural Networks A Comprehensive Survey.**<br>
-*L Deng, G Li, S Han, L Shi, Y Xie.*<br> 
-Proceedings of the IEEE, 2020.
+**Quantization and training of neural networks for efficient integer-arithmetic-only inference.**<br>
+*B Jacob, S Kligys, B Chen, M Zhu, et al.*<br>
+CVPR, 2018.
+
+**Similarity-preserving knowledge distillation.**<br>
+*F Tung, G Mori.*<br> 
+ICCV, 2019.
 
 **A comprehensive survey on model compression and acceleration.**<br>
 *T Choudhary, V Mishra, A Goswami, et al.*<br>
 Artificial Intelligence Review, 2020.
+
+**Model Compression and Hardware Acceleration for Neural Networks A Comprehensive Survey.**<br>
+*L Deng, G Li, S Han, L Shi, Y Xie.*<br> 
+Proceedings of the IEEE, 2020.
+
+**mlflow.**<br>
+*Open source platform for the machine learning lifecycle.*<br>
+[[Github](https://github.com/mlflow/mlflow)]
+
+**mlflow.**<br>
+*Open source platform for the machine learning lifecycle.*<br>
+[[Github](https://github.com/mlflow/mlflow)]
+
+**mlflow.**<br>
+*Open source platform for the machine learning lifecycle.*<br>
+[[Github](https://github.com/mlflow/mlflow)]
 
 #### Model Deployment
 

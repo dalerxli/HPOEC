@@ -1,4 +1,4 @@
-# NeuroScience
+# Neuromorphic Computing
 
 ## Journal
 
