@@ -108,6 +108,14 @@ ArXiv, 2022.
 *W Bogaerts, L Chrostowski.*<br>
 Laser & Photonics Reviews, 2018.
 
+**Latest advancements to the industry-leading EPDA design flow for silicon photonics.**<br>
+*J Pond, X Wang, Z Lu, E Schelew, et al.*<br>
+ICCAD, 2019.
+
+**Towards the integration of InP photonics with silicon electronics: design and technology challenges.**<br>
+*WW Yao, X Liu, MK Matters-Kammerer, et al.*<br>
+JLT, 2021.
+
 ## Defect Detection
 
 **Transfer learning for automated optical inspection.**<br>
