@@ -73,7 +73,6 @@ Machine Learning: Science and Technology, 2021.
 Quantum, 2018.
 
 **Quantum Computing in the NISQ era and beyond.**<br>
-*D Beloborodov, AE Ulanov, JN Foerster, et al.*<br>
 *J Preskill.*<br>
 Quantum, 2018.
 
