@@ -73,7 +73,6 @@ Machine Learning: Science and Technology, 2021.
 Quantum, 2018.
 
 **Quantum Computing in the NISQ era and beyond.**<br>
-*D Beloborodov, AE Ulanov, JN Foerster, et al.*<br>
 *J Preskill.*<br>
 Quantum, 2018.
 
@@ -115,6 +114,10 @@ Nature, 2017, 549, 195.
 **PennyLane Automatic differentiation of hybrid quantum classical computations.**<br>
 *V Bergholm, J Izaac, M Schuld, C Gogolin, et al.*<br>
 ArXiv, 2018.
+
+**Tensorflow quantum: A software framework for quantum machine learning.**<br>
+*M Broughton, G Verdon, T McCourt, AJ Martinez, et al.*<br>
+ArXiv, 2020.
 
 **Quantum adversarial machine learning.**<br>
 *S Lu, LM Duan, DL Deng.*<br>

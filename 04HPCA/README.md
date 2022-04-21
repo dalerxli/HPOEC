@@ -52,7 +52,11 @@ IEEE Micro, 2020.
 *H Kwon, L Lai, M Pellauer, T Krishna, et al.*<br>
 HPCA, 2021.
 
-## Machine Learning Accelerator
+**Energy-efficient resource management for federated edge learning with CPU-GPU heterogeneous computing.**<br>
+*Q Zeng, Y Du, K Huang, et al.*<br>
+IEEE TWC, 2021.
+
+## Machine Learning Hardware Accelerator
 
 ### Review
 

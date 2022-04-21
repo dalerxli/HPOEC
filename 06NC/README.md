@@ -203,6 +203,10 @@ PRL, 2018.
 JSTQE, 2019.
 [[Github](https://github.com/Tp-Hekiclr/Optical-Reservoir-Computing-for-Chaotic-Time-Prediction)]
 
+**Human action recognition with a large-scale brain-inspired photonic computer.**<br>
+*P Antonik, N Marsal, D Brunner, et al.*<br>
+NMI, 2019.
+
 **Photonic neuromorphic information processing and reservoir computing.**<br>
 *A Lugnan, A Katumba, F Laporte, M Freiberger, et al.*<br>
 ACS Photonics, 2020.
@@ -227,9 +231,21 @@ Nature, 2020.
 
 ## BCI
 
+**EEG-based user identification system using 1D-convolutional long short-term memory neural networks.**<br>
+*Y Sun, FPW Lo, B Lo.*<br>
+Expert Systems with Applications, 2019.
+
+**Deep learning for electroencephalogram (EEG) classification tasks: a review.**<br>
+*A Craik, Y He, JL Contreras-Vidal.*<br>
+Journal of neural engineering, 2019.
+
 **Reconfigurable nanophotonic silicon probes for sub-millisecond deep-brain optical stimulation.**<br>
 *A Mohanty, Q Li, MA Tadayon, SP Roberts, et al.*<br>
 Nature Biomedical Engineering, 2020.
+
+**Hardware-software co-design for brain-computer interfaces.**<br>
+*I Karageorgos, K Sriram, J Veselý, M Wu, et al.*<br>
+SC, 2020.
 
 **Brain–Computer Interface Software:A Review and Discussion.**<br>
 *P Stegman, CS Crawford, M Andujar, et al.*<br>
