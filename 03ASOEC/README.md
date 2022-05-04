@@ -98,6 +98,10 @@
 
 ## Review
 
+**Single-chip microprocessor that communicates directly using light..**<br>
+*C Sun, MT Wade, Y Lee, JS Orcutt, L Alloatti, et al.*<br>
+Nature, 2015.
+
 **Optical computing.**<br>
 *J Touch, AH Badawy, VJ Sorger.*<br>
 Nanophotonics, 2017.
