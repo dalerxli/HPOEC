@@ -146,6 +146,10 @@ Engineering, 2021.
 *G Wetzstein, A Ozcan, S Gigan, S Fan, D Englund, et al.*<br>
 Nature, 2020.
 
+**Light in AI: Toward Efficient Neurocomputing with Optical Neural Networks-A Tutorial.**<br>
+*J Gu, C Feng, H Zhu, RT Chen, et al.*<br>
+IEEE Transactions on Circuits and Systems II: Express Briefs, 2022.
+
 #### Integrated ONNs
 
 **Deep learning with coherent nanophotonic circuits.**<br>
