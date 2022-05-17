@@ -311,10 +311,6 @@ IEEE Circuits and Systems Magazine, 2020.
 *J Lin, WM Chen, Y Lin, C Gan, et al.*<br>
 NeurIPS, 2020.
 
-**EtinyNet: Extremely Tiny Network for TinyML.**<br>
-*K Xu, Y Li, H Zhang, R Lai, L Gu.*<br>
-AAAI, 2021.
-
 **Mcunetv2: Memory-efficient patch-based inference for tiny deep learning.**<br>
 *J Lin, WM Chen, H Cai, C Gan, S Han.*<br>
 ArXiv, 2021.
@@ -331,9 +327,17 @@ MLSys, 2021.
 *R David, J Duke, A Jain, et al.*<br>
 MLSys, 2021.
 
+**EtinyNet: Extremely Tiny Network for TinyML.**<br>
+*K Xu, Y Li, H Zhang, R Lai, L Gu.*<br>
+AAAI, 2022.
+
 **Network Augmentation for Tiny Deep Learning.**<br>
 *C Banbury, VJ Reddi, P Torelli, J Holleman, et al.*<br>
 ICLR, 2022.
+
+**MLPerf Mobile Inference Benchmark: An Industry-Standard Open-Source Machine Learning Benchmark for On-Device AI.**<br>
+*V Janapa Reddi, D Kanter, P Mattson, et al.*<br>
+MLSys, 2022.
 
 **Enable deep learning on mobile devices: Methods, systems, and applications.**<br>
 *H Cai, J Lin, Y Lin, Z Liu, H Tang, H Wang, et al.*<br>
@@ -424,6 +428,14 @@ ICRA, 2021.
 **PointAcc: Efficient Point Cloud Accelerator.**<br>
 *Y Lin, Z Zhang, H Tang, H Wang, S Han.*<br>
 MICRO, 2021.
+
+**Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics.**<br>
+*Y Feng, G Hammonds, Y Gan, Y Zhu.*<br>
+ArXiv, 2022.
+
+**PVNAS: 3D neural architecture search with point-voxel convolution.**<br>
+*Z Liu, H Tang, S Zhao, K Shao, S Han.*<br>
+ArXiv, 2022.
 
 **TorchSparse: Efficient Point Cloud Inference Engine.**<br>
 *H Tang, Z Liu, X Li, Y Lin, S Han.*<br>
