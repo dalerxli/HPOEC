@@ -205,6 +205,10 @@ NeurIPS, 2021.
 *J Gu, H Zhu, C Feng, Z Jiang, M Liu, S Zhang, and et al.*<br>
 arXiv:2112.08703, 2021.
 
+**An on-chip photonic deep neural network for image classification.**<br>
+*F Ashtiani, AJ Geers, F Aflatouni.*<br>
+Nature, 2022.
+
 ##### Slover
 
 **Neural combinatorial optimization with reinforcement learning.**<br>
