@@ -3,8 +3,12 @@
 ## Business
 
 **LUCEDA**<br>
-*Luceda 为大家提供一个光电子芯片设计自动化全流程平台-IPKISS*<br>
+*Luceda为大家提供一个光电子芯片设计自动化全流程平台-IPKISS*<br>
 [[Homepage](https://www.lucedaphotonics.com/zh_CN/)]
+
+**CUMEC**<br>
+*联合微电子中心*<br>
+[[Homepage](http://www.cumec.cn/menu_10.html)]
 
 ## Journal
 
