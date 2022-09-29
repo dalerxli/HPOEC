@@ -1,4 +1,4 @@
-# High Performance OptoElectronic Heterogeneous Computing (HPOHC)
+# High Performance OptoElectronic Heterogeneous Computing (HPOEC)
 
 ******
 
