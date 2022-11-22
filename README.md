@@ -8,7 +8,7 @@
 
 ## Application Specific OptoElectronic Computing (ASOEC)
 
-## High-Performance Computer Architecture (HPCA)
+## Intelligent Communications & Networks (ICN)
 
 ******
 
