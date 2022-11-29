@@ -16,6 +16,6 @@
 
 ## Neural Computing (NC)
 
-## Parallel Computing (PC)
+## High-Performance Computer Architecture (HPCA)
 
 ## Edge Computing (EC)
